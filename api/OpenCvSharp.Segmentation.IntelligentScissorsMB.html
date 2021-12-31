@@ -1,0 +1,690 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class IntelligentScissorsMB
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class IntelligentScissorsMB
+   ">
+    <meta name="generator" content="docfx 2.58.9.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB">
+  
+  
+  <h1 id="OpenCvSharp_Segmentation_IntelligentScissorsMB" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB" class="text-break">Class IntelligentScissorsMB
+  </h1>
+  <div class="markdown level0 summary"><p>Intelligent Scissors image segmentation</p>
+<p>This class is used to find the path (contour) between two points
+which can be used for image segmentation.</p>
+<p>Usage example:
+@snippet snippets/imgproc_segmentation.cpp usage_example_intelligent_scissors</p>
+<p>Reference: Intelligent Scissors for Image Composition <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.3811">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.3811</a>&amp;rep=rep1&amp;type=pdf
+algorithm designed by Eric N. Mortensen and William A. Barrett, Brigham Young University
+@cite Mortensen95intelligentscissors</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="OpenCvSharp.DisposableObject.html">DisposableObject</a></div>
+    <div class="level2"><a class="xref" href="OpenCvSharp.DisposableCvObject.html">DisposableCvObject</a></div>
+    <div class="level3"><span class="xref">IntelligentScissorsMB</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IDisposable</span></div>
+    <div><a class="xref" href="OpenCvSharp.ICvPtrHolder.html">ICvPtrHolder</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableCvObject.html#OpenCvSharp_DisposableCvObject_ptr">DisposableCvObject.ptr</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableCvObject.html#OpenCvSharp_DisposableCvObject_CvPtr">DisposableCvObject.CvPtr</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_DataHandle">DisposableObject.DataHandle</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_IsDisposed">DisposableObject.IsDisposed</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_IsEnabledDispose">DisposableObject.IsEnabledDispose</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_AllocatedMemory">DisposableObject.AllocatedMemory</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_AllocatedMemorySize">DisposableObject.AllocatedMemorySize</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_Dispose">DisposableObject.Dispose()</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_Dispose_System_Boolean_">DisposableObject.Dispose(Boolean)</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_DisposeManaged">DisposableObject.DisposeManaged()</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_AllocGCHandle_System_Object_">DisposableObject.AllocGCHandle(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_AllocMemory_System_Int32_">DisposableObject.AllocMemory(Int32)</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_NotifyMemoryPressure_System_Int64_">DisposableObject.NotifyMemoryPressure(Int64)</a>
+    </div>
+    <div>
+      <a class="xref" href="OpenCvSharp.DisposableObject.html#OpenCvSharp_DisposableObject_ThrowIfDisposed">DisposableObject.ThrowIfDisposed()</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="OpenCvSharp.Segmentation.html">OpenCvSharp.Segmentation</a></h6>
+  <h6><strong>Assembly</strong>: OpenCvSharp.dll</h6>
+  <h5 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class IntelligentScissorsMB : DisposableCvObject, IDisposable, ICvPtrHolder</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB__ctor.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.%23ctor%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L24">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB__ctor_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.#ctor*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB__ctor" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.#ctor">IntelligentScissorsMB()</h4>
+  <div class="markdown level1 summary"><p>Constructor</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB()</code></pre>
+  </div>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImage_OpenCvSharp_InputArray_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImage(OpenCvSharp.InputArray)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L137">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImage_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImage*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImage_OpenCvSharp_InputArray_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImage(OpenCvSharp.InputArray)">ApplyImage(InputArray)</h4>
+  <div class="markdown level1 summary"><p>Specify input image and extract image features</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB ApplyImage(InputArray image)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></td>
+        <td><span class="parametername">image</span></td>
+        <td><p>input image. Type is #CV_8UC1 / #CV_8UC3</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImageFeatures_OpenCvSharp_InputArray_OpenCvSharp_InputArray_OpenCvSharp_InputArray_OpenCvSharp_InputArray_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImageFeatures(OpenCvSharp.InputArray%2COpenCvSharp.InputArray%2COpenCvSharp.InputArray%2COpenCvSharp.InputArray)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L159">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImageFeatures_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImageFeatures*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_ApplyImageFeatures_OpenCvSharp_InputArray_OpenCvSharp_InputArray_OpenCvSharp_InputArray_OpenCvSharp_InputArray_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.ApplyImageFeatures(OpenCvSharp.InputArray,OpenCvSharp.InputArray,OpenCvSharp.InputArray,OpenCvSharp.InputArray)">ApplyImageFeatures(InputArray, InputArray, InputArray, InputArray)</h4>
+  <div class="markdown level1 summary"><p>Specify custom features of imput image
+Customized advanced variant of applyImage() call.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB ApplyImageFeatures(InputArray nonEdge, InputArray gradientDirection, InputArray gradientMagnitude, InputArray image = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></td>
+        <td><span class="parametername">nonEdge</span></td>
+        <td><p>Specify cost of non-edge pixels. Type is CV_8UC1. Expected values are <code>{0, 1}</code>.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></td>
+        <td><span class="parametername">gradientDirection</span></td>
+        <td><p>Specify gradient direction feature. Type is CV_32FC2. Values are expected to be normalized: <code>x^2 + y^2 == 1</code></p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></td>
+        <td><span class="parametername">gradientMagnitude</span></td>
+        <td><p>Specify cost of gradient magnitude function: Type is CV_32FC1. Values should be in range <code>[0, 1]</code>.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></td>
+        <td><span class="parametername">image</span></td>
+        <td><p>Optional parameter. Must be specified if subset of features is specified (non-specified features are calculated internally)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_BuildMap_OpenCvSharp_Point_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.BuildMap(OpenCvSharp.Point)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L183">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_BuildMap_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.BuildMap*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_BuildMap_OpenCvSharp_Point_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.BuildMap(OpenCvSharp.Point)">BuildMap(Point)</h4>
+  <div class="markdown level1 summary"><p>Prepares a map of optimal paths for the given source point on the image
+Note: applyImage() / applyImageFeatures() must be called before this call</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void BuildMap(Point sourcePt)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Point.html">Point</a></td>
+        <td><span class="parametername">sourcePt</span></td>
+        <td><p>The source point used to find the paths</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_DisposeUnmanaged.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.DisposeUnmanaged%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L33">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_DisposeUnmanaged_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.DisposeUnmanaged*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_DisposeUnmanaged" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.DisposeUnmanaged">DisposeUnmanaged()</h4>
+  <div class="markdown level1 summary"><p>Releases unmanaged resources</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void DisposeUnmanaged()</code></pre>
+  </div>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="OpenCvSharp.DisposableCvObject.html#OpenCvSharp_DisposableCvObject_DisposeUnmanaged">DisposableCvObject.DisposeUnmanaged()</a></div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_GetContour_OpenCvSharp_Point_OpenCvSharp_OutputArray_System_Boolean_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.GetContour(OpenCvSharp.Point%2COpenCvSharp.OutputArray%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L200">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_GetContour_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.GetContour*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_GetContour_OpenCvSharp_Point_OpenCvSharp_OutputArray_System_Boolean_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.GetContour(OpenCvSharp.Point,OpenCvSharp.OutputArray,System.Boolean)">GetContour(Point, OutputArray, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Extracts optimal contour for the given target point on the image
+Note: buildMap() must be called before this call</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GetContour(Point targetPt, OutputArray contour, bool backward = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Point.html">Point</a></td>
+        <td><span class="parametername">targetPt</span></td>
+        <td><p>The target point</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.OutputArray.html">OutputArray</a></td>
+        <td><span class="parametername">contour</span></td>
+        <td><p>contour The list of pixels which contains optimal path between the source and the target points of the image.
+Type is CV_32SC2 (compatible with <code>std::vector&amp;lt;Point&gt;</code>)</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">backward</span></td>
+        <td><p>Flag to indicate reverse order of retrived pixels (use &quot;true&quot; value to fetch points from the target to the source point)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureCannyParameters_System_Double_System_Double_System_Int32_System_Boolean_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureCannyParameters(System.Double%2CSystem.Double%2CSystem.Int32%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L119">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureCannyParameters_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureCannyParameters*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureCannyParameters_System_Double_System_Double_System_Int32_System_Boolean_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureCannyParameters(System.Double,System.Double,System.Int32,System.Boolean)">SetEdgeFeatureCannyParameters(Double, Double, Int32, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Switch edge feature extractor to use Canny edge detector
+Note: &quot;Laplacian Zero-Crossing&quot; feature extractor is used by default (following to original article)</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB SetEdgeFeatureCannyParameters(double threshold1, double threshold2, int apertureSize = 3, bool l2gradient = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Double</span></td>
+        <td><span class="parametername">threshold1</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Double</span></td>
+        <td><span class="parametername">threshold2</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">apertureSize</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">l2gradient</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureZeroCrossingParameters_System_Single_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureZeroCrossingParameters(System.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L98">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureZeroCrossingParameters_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureZeroCrossingParameters*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetEdgeFeatureZeroCrossingParameters_System_Single_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetEdgeFeatureZeroCrossingParameters(System.Single)">SetEdgeFeatureZeroCrossingParameters(Single)</h4>
+  <div class="markdown level1 summary"><p>Switch to &quot;Laplacian Zero-Crossing&quot; edge feature extractor and specify its parameters</p>
+<p>This feature extractor is used by default according to article.</p>
+<p>Implementation has additional filtering for regions with low-amplitude noise.
+This filtering is enabled through parameter of minimal gradient amplitude (use some small value 4, 8, 16).</p>
+<p>@note Current implementation of this feature extractor is based on processing of grayscale images (color image is converted to grayscale image first).</p>
+<p>@note Canny edge detector is a bit slower, but provides better results (especially on color images): use setEdgeFeatureCannyParameters().</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB SetEdgeFeatureZeroCrossingParameters(float gradientMagnitudeMinValue = 0F)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">gradientMagnitudeMinValue</span></td>
+        <td><p>Minimal gradient magnitude value for edge pixels (default: 0, check is disabled)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_SetGradientMagnitudeMaxLimit_System_Single_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.SetGradientMagnitudeMaxLimit(System.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L72">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetGradientMagnitudeMaxLimit_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetGradientMagnitudeMaxLimit*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetGradientMagnitudeMaxLimit_System_Single_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetGradientMagnitudeMaxLimit(System.Single)">SetGradientMagnitudeMaxLimit(Single)</h4>
+  <div class="markdown level1 summary"><p>Specify gradient magnitude max value threshold</p>
+<p>Zero limit value is used to disable gradient magnitude thresholding (default behavior, as described in original article).
+Otherwize pixels with <code>gradient magnitude &gt;= threshold</code> have zero cost.</p>
+<p>@note Thresholding should be used for images with irregular regions (to avoid stuck on parameters from high-contract areas, like embedded logos).</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB SetGradientMagnitudeMaxLimit(float gradientMagnitudeThresholdMax = 0F)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">gradientMagnitudeThresholdMax</span></td>
+        <td><p>Specify gradient magnitude max value threshold (default: 0, disabled)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB_SetWeights_System_Single_System_Single_System_Single_.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB.SetWeights(System.Single%2CSystem.Single%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L50">View Source</a>
+  </span>
+  <a id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetWeights_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetWeights*"></a>
+  <h4 id="OpenCvSharp_Segmentation_IntelligentScissorsMB_SetWeights_System_Single_System_Single_System_Single_" data-uid="OpenCvSharp.Segmentation.IntelligentScissorsMB.SetWeights(System.Single,System.Single,System.Single)">SetWeights(Single, Single, Single)</h4>
+  <div class="markdown level1 summary"><p>Specify weights of feature functions</p>
+<p>Consider keeping weights normalized (sum of weights equals to 1.0)
+Discrete dynamic programming (DP) goal is minimization of costs between pixels.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntelligentScissorsMB SetWeights(float weightNonEdge, float weightGradientDirection, float weightGradientMagnitude)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">weightNonEdge</span></td>
+        <td><p>Specify cost of non-edge pixels (default: 0.43f)</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">weightGradientDirection</span></td>
+        <td><p>Specify cost of gradient direction function (default: 0.43f)</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">weightGradientMagnitude</span></td>
+        <td><p>Specify cost of gradient magnitude function (default: 0.14f)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="OpenCvSharp.Segmentation.IntelligentScissorsMB.html">IntelligentScissorsMB</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IDisposable</span>
+  </div>
+  <div>
+      <a class="xref" href="OpenCvSharp.ICvPtrHolder.html">ICvPtrHolder</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_Segmentation_IntelligentScissorsMB.md&amp;value=---%0Auid%3A%20OpenCvSharp.Segmentation.IntelligentScissorsMB%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/imgproc/IntelligentScissorsMB.cs/#L19" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

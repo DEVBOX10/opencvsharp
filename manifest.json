@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AKAZE.html",
-          "hash": "kR0f2qYW8EE0c3DdGk3X6fg7Td590H1yfZ//zRQf8GQ="
+          "hash": "1cy9eFBwXhiigLxIFPXjPWG63jBLNmspWELZUrD4eDc="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AKAZEDescriptorType.html",
-          "hash": "qOGqBiQT2yd/3tv7GfUSLZGDY/S15/6RjDOwXUBHr1E="
+          "hash": "z90IPqnLO0uLQaj5Goq4HUzuAtGfvCzDdwF/Lt5jGl0="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AccessFlag.html",
-          "hash": "gRB9DcS82JUlt3Cqqfk/3E+MJimBspPM9WPYrNSLl9c="
+          "hash": "iUCUgs7FsZvRsunvh8fGvSt1prw2CS6BFAkbQeIBTSs="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AdaptiveThresholdTypes.html",
-          "hash": "zBaSPcKaB0oNc9Wqq/55Y6A6ardNAgt7AC/NRyI5F5o="
+          "hash": "D4sS85r4mF6eCQY9DutFRG8AXw4BYnaiXqJkpSZdnOE="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AgastFeatureDetector.DetectorType.html",
-          "hash": "avOChUGVwqr6heL+2bphTqTfIoZJommJuZIlfh4HH0g="
+          "hash": "ts4LNtcmx9xMj85JY53m5Tj4LBEEpFElDbL99DPIxII="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AgastFeatureDetector.html",
-          "hash": "nuqFkdLLrWRiE8BWSZvWrVzCfaS0ISkL3d9QOiNhT5Y="
+          "hash": "PzwZk10RxfU10Up6l9qAVywZqo/BmtFhoeeDCec0qnU="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Algorithm.html",
-          "hash": "r2YKrNcTCcJueQhUQA2WlS6ZN4MoVl8bapHBVc+/sXo="
+          "hash": "xNAq5ikEAxEOBW+B/JUePKCQlCwXbaAfxdTZ8c6+e84="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.AlgorithmParamType.html",
-          "hash": "+UMPMiD+smmjFfRJ0IQEmptoG3f8lkS0IwWE/5LN+iE="
+          "hash": "tZdXH4dingNziRgAOY5zGVN1hwSoeF3pRbwAt/XdmFg="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.CornerRefineMethod.html",
-          "hash": "h1mCrTiz+Ab1efgHlnpCmHU6SkMHmpqrDt8WA9weSZ0="
+          "hash": "UKDBGXfAqy+UKKiCVp0LsAQO1gJ6hf8h1joMzNl+VS0="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.CvAruco.html",
-          "hash": "2InaVtkXDVBw70rMJRBFCYgBQyUPv3IWmhjf/D1/JaA="
+          "hash": "gTjiv29MTZNGy8JYpwqYbEBbJdXYoEurKb9wVK5Do1Q="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.DetectorParameters.NativeStruct.html",
-          "hash": "2eZQ/UHBRNdr7HNo2fuW3wCGURQ+67XuoeM1B1KSCwY="
+          "hash": "1QJN8kMjm3XAtBmQcyF2W/GySLaz2X8GSqRRcYBcsQg="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.DetectorParameters.html",
-          "hash": "hUITwnIjA9cKRDz6K6kYrl8ToyoLkkqMq2yLt0RiV8w="
+          "hash": "Z+vfWJie9+iOdi8aDbeSLgcSO7UINawt+eQ+4g10eFQ="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.Dictionary.html",
-          "hash": "yWbFb0qUiKXanHWn2VPecVk65qnM39SvSrHifSmDDT8="
+          "hash": "wQeEZNarK3sSxuFdfdVgkNjy5fLZApKI3boNqEuIq8Y="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.PredefinedDictionaryName.html",
-          "hash": "ZtOi/0PAU9/vIs/r+e9cBO4W5aYi1qJwMBOD96l4hKg="
+          "hash": "CTm24uG2BKq1qJ4KNozKboYTDLdORAKa2z/6oDo5Mlk="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.html",
-          "hash": "cSfTydygYBa3GzvTxNPNNgK3ApXe6w8vfpFahlJ2n/s="
+          "hash": "3XzKlr1nsMG8lqvif+VY01VFvsREHyFuWYXIDhkxjXw="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BFMatcher.html",
-          "hash": "eFZEYS3bua6ehbyJX8X5sa2QHBZ00DFoueum+5uWIRk="
+          "hash": "C1aUys76Yq3VZQDy5spz81Q8Nd/SI6n6kGVZT5jgXxU="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BOWImgDescriptorExtractor.html",
-          "hash": "e92ODK1upG8OqX0JZpjPy9lw6nUf+6w0i4xSM/smeUs="
+          "hash": "XMkPv+KBah5/W154lzHVWiXIMumh/CXNEarM9vwdpAY="
         }
       },
       "is_incremental": false,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BOWKMeansTrainer.html",
-          "hash": "uC02eaqX+yJyqMzlICwTzE2RKCDlaUytHuhpkshzCkU="
+          "hash": "deGg3LC+100gluix/MIaiDXQJJ/gUkNASWWThhjxOHs="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BOWTrainer.html",
-          "hash": "n3jrQQDk/WKNLCRsbkORxPkfSHoI1QCQ1j9myT0+3K0="
+          "hash": "nAcVIR7kfPB7ZDynJ/OLqRjakMD0MGprgB+e5xSabM4="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BRISK.html",
-          "hash": "WOs3t9NxF6yQhjGJ7wU6IJRSFhEbTUWsK/PIZsByrYA="
+          "hash": "6DkM281AcBL7Wl1/0cxmYKmNHfzJG2+jBdjjXXXdn4Y="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BackgroundSubtractor.html",
-          "hash": "ELYpkZ2hRupYqYrxYZodp9ULlOx1ufzSBRVE61MstSQ="
+          "hash": "oYb8was2wTGi9C16wxwdXLv12GlqSUkhOtSVgF0vGVA="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BackgroundSubtractorGMG.html",
-          "hash": "EvFFOZe7DYZ3wQLPazC0flLYNsT5rWfDYuuBwnaDMz8="
+          "hash": "wdgFQp5IwUG8COJ7BJFI72ixmDUOk939DwG+YFa7J44="
         }
       },
       "is_incremental": false,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BackgroundSubtractorKNN.html",
-          "hash": "8idHTo2BdZMX6Hue1K5hgoMJv9emjbYxHAy33jtIaSc="
+          "hash": "BIomWzetrj/Bs4SYwA/audXLeEXHdpidHX8xkgqhvvA="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BackgroundSubtractorMOG.html",
-          "hash": "IVQG/KB853gsTpenoat5HuLxTan/+WdRmuxgKaljiOM="
+          "hash": "PF69ccC1dcZJ2DKr88oCZFDzQyCM+z8CmsHnQB5LiAQ="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BackgroundSubtractorMOG2.html",
-          "hash": "7PtlwDd2Q1gckCfXUd5C9+Y6uNr9jJ5U4VmUN1DQe84="
+          "hash": "U30s3YbBD+a2zjCQLxEmg/Y6ASnJau+UdbIiI4H9pj4="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BorderTypes.html",
-          "hash": "FVA59Lcf0s0Pgrr75FIm6Oq3/jV437mh6g27n5wBHYM="
+          "hash": "S9T1Ctcv9N7Mr7bWnGqkK9GPlkVz/MRHOABX+SJuHtI="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.BroxOpticalFlow.html",
-          "hash": "UbhqbKwRYn6t+6OJBnHJM6ICO/jyZT2kyfsPtGtLgb4="
+          "hash": "HBwOKajmHRAc5kFWb9CZQ9XQw4YOReET9gXKtGOnxlM="
         }
       },
       "is_incremental": false,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ButtonType.html",
-          "hash": "w1jJHvLTr3AkpS/0cY6TYERTXGr7jzuY/kjsEyVHYOU="
+          "hash": "VAuXFILu165ew8VKKCnJ2Rw0BJOydhOdgclYufUx7ww="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CLAHE.html",
-          "hash": "QnDxo23F8oPlUtm5kjHOCCSqB3+Izs8lrdbC3j6zoYQ="
+          "hash": "sGzNNM53MlFVjBwAYpcDYjYHEvCrmjwfXd3CwFAGC/Y="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CalibrateCRF.html",
-          "hash": "5bEi5o+/bbjd46jYs/Bn9GzWPT3sPgnNi9u6lPVsLyg="
+          "hash": "lO4NMVav5W/evmBukpWhfiizzw3JfoTAP15eLAb6N9I="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CalibrateDebevec.html",
-          "hash": "x2ayZwKbplArpnu3qaWyunf5DhK3pphBDbOl7AyD5EU="
+          "hash": "EXbEyNflKHPxtZl+Kc0WEtN3ac4tNWZ8w32gEWfXouE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.CalibrateRobertson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.CalibrateRobertson.html",
+          "hash": "/Xu0SWnjAnB0w8cyJj9Aoqi/fZcN1rTnDyTGSmzpZHk="
         }
       },
       "is_incremental": false,
@@ -381,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CalibrationFlags.html",
-          "hash": "gkAFIhRIWjUEhPU4UfVhHRgV3Y0+R9ObLqHtNg6LG1Q="
+          "hash": "oWhxRyWs7T1ZUw0qYl5bXOXxYQ9H9Bw/zi8uO46Qqgc="
         }
       },
       "is_incremental": false,
@@ -393,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CameraChannels.html",
-          "hash": "0ibiBKaGxW6lcLhVm4co0ucJd1BA7n+YN2xzsT4vOXA="
+          "hash": "o9wy93TFK7puGdIFb5S2E1hUmbHHRG1KMjP+0kf3odI="
         }
       },
       "is_incremental": false,
@@ -405,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CapturePosAviRatio.html",
-          "hash": "85Gu1FRKYZMdfztYYnHLaZCA3HKuItijmy/3q1lkwfs="
+          "hash": "o5hROyydt44H+WH45WqkYJ/KuaU+67vjY5yE5uvCXsM="
         }
       },
       "is_incremental": false,
@@ -417,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CaptureType.html",
-          "hash": "8wiBTzhG8El7AnQoDzxx+kyhr5kGfEouCCw2TX/1Jrw="
+          "hash": "0YLIQlrfOc8eNQzeO18EWzhUAuDEwhU2/+iN81DT25E="
         }
       },
       "is_incremental": false,
@@ -429,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CascadeClassifier.html",
-          "hash": "td7ixxV8N/o6Z71Jw/Wf/8DBhCI1fIPFmj02O0lscaY="
+          "hash": "oOjRT2g7dRBTAtA5gngz4g+QAkPNX2sejMHvNLv7h1w="
         }
       },
       "is_incremental": false,
@@ -441,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ChessboardFlags.html",
-          "hash": "xP4cQz2Gh1o4G89Sdtta1NEvUijFQph6djrvFhAyjyI="
+          "hash": "dUA+BoN+B1twX06Yq7OhW2mN+5wbZFbL2FO8x52lq9Y="
         }
       },
       "is_incremental": false,
@@ -453,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CircleSegment.html",
-          "hash": "T0e4CgDWr+wG76y69faafID4saPsnU0MMUdmixekpq0="
+          "hash": "rOP1bmZD2Mbz5JtZrlIhHBimpkWaYwkaU+fWyhJ6o0I="
         }
       },
       "is_incremental": false,
@@ -465,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CmpType.html",
-          "hash": "4Fx64AByLrwpJnb+uKAFW7f1hVMWNYIsIdMSqQvra4E="
+          "hash": "aFQFC1QWWQ/qjf+3sJvbXJg/nHXf/kdMmLm7gNNRHJ8="
         }
       },
       "is_incremental": false,
@@ -477,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ColorConversionCodes.html",
-          "hash": "HDXIscBnGOaMT1WHpCVpSRKctbZ3CTosHMGjuYffKeU="
+          "hash": "MyDMRO76Pz1bkdik44KCONXHtb5PwMv5x96hJZ2/nII="
         }
       },
       "is_incremental": false,
@@ -489,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ColormapTypes.html",
-          "hash": "065f3RWvX4gyz+kHVvNJLauf8RgH6AnhloqvBqXTc9U="
+          "hash": "+kG6QY4uo4E2M9gKErSFuuUWtvs1DQYRdxGSjpLeMPw="
         }
       },
       "is_incremental": false,
@@ -501,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ConnectedComponents.Blob.html",
-          "hash": "d+DVZWLGAd57QJVmPJYH2DflSxs5jAceB6PfTFvwCB0="
+          "hash": "nJHKjMBOB/5sckv7InKo7bT/aQyrgfIWdRiTAaWXeKE="
         }
       },
       "is_incremental": false,
@@ -513,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ConnectedComponents.html",
-          "hash": "Nfbx4jDY6ZeXHlYXasYQqCgUw9WKfRv1+QYTeWpSaH4="
+          "hash": "W/yw7ORKMemzXfwEkQ+glLBHvRyvU4+zugE5yiNTyBQ="
         }
       },
       "is_incremental": false,
@@ -525,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ConnectedComponentsAlgorithmsTypes.html",
-          "hash": "Q2AlSGMdrIrQtFzS0IIUgko3xwbLqXCy3Tzlt0N/SiY="
+          "hash": "qloRCsA4u7ZM7yx25c5Ff/CIIwEEO6P6C3GcQ7BSwbA="
         }
       },
       "is_incremental": false,
@@ -537,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ConnectedComponentsTypes.html",
-          "hash": "cltsJrIQ1Hzj00oVsQjtO1m+KVqoDrcln8cPmHCsg1Y="
+          "hash": "lr4TH6G/qhqfNfu0HT0Fbn5SypJxqsh1huOMscXhTLY="
         }
       },
       "is_incremental": false,
@@ -549,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ContourApproximationModes.html",
-          "hash": "JYUnOuHa8fAQbPVVX6lKqan6o4thxdXJ7iTK1Pvzk1o="
+          "hash": "LM5CMCFI1I2IflhfXs8eit86e+TypXzBeXfzDO+tY5w="
         }
       },
       "is_incremental": false,
@@ -561,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ConvertImageModes.html",
-          "hash": "wGF0l350ioP+Wp3WVkIhCoWespiNwTyhWKpnC1v1R4o="
+          "hash": "jn+1ZzwDXJUbm3j4s9LHITKChgc3/Aqxh/5kxG4bz9o="
         }
       },
       "is_incremental": false,
@@ -573,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CovarFlags.html",
-          "hash": "VYnVGhb6Afw5ZYkT64wr8RVgPjZfec0u621xjX4ljPQ="
+          "hash": "rFb7IsftS3Cj7Y/ZH3r4j/2YCeI9yrE4h7CT80M2Luo="
         }
       },
       "is_incremental": false,
@@ -585,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CpuFeatures.html",
-          "hash": "fWFyz5CLzA81fu9WdqW1MajNVChvZvt88EwRKp2vJwI="
+          "hash": "aj5h+ctQmqghZskeJ5yRP7MdFJ0U5PDj2gHyNPpeWYY="
         }
       },
       "is_incremental": false,
@@ -597,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CriteriaTypes.html",
-          "hash": "gzzvj6OE/sD8fNZMUhfC7q1Ab6CN8fFE0svW+HgVoZw="
+          "hash": "pb6QVZ/EhVT+ZMH7qNDcFqwnODpSALv/ZyZjOWerLNU="
         }
       },
       "is_incremental": false,
@@ -609,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Cv2.FishEye.html",
-          "hash": "UWdTYKRRKiQZOHwo3I72yb+RaEn3Iq/dHgtiMwHTW5I="
+          "hash": "hbdDHBVwr0m6iJ0iWjXWoJp7AxVz1HYL66r1D5gce5Q="
         }
       },
       "is_incremental": false,
@@ -621,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Cv2.PartitionPredicate-1.html",
-          "hash": "ekiboEDstIpTMHSQ391/n78LDo1Bfnxh1hn39hqEj14="
+          "hash": "zgX4+XG5L8Xle+MsWQ0CBY81wFTsTYK4EN10TR5Gvxo="
         }
       },
       "is_incremental": false,
@@ -633,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Cv2.html",
-          "hash": "EtHYTxL0MLG4xoht3Zk4mAlIXu3EVm5BiKMx+UXyXVM="
+          "hash": "QpFdG5MT+S/G9H56iVIEN2cv9z1nVcVc0h/2S8UQVoM="
         }
       },
       "is_incremental": false,
@@ -645,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CvErrorCallback.html",
-          "hash": "X/3Pt49OvYYJF0ZI8oDm5pQ8Rm4QNZwW3k2DkiHXdEc="
+          "hash": "G6vOtr6dMYxsNd697Hp11a2lXoMHiQW4ARngu9rVtt4="
         }
       },
       "is_incremental": false,
@@ -657,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CvObject.html",
-          "hash": "qEQuE0o4DxuobU1nzlUFTbt4tsL5Q/2KTEBQba77znk="
+          "hash": "u7NhIw8lhf23ST8CkCAmZRBt/CBFCG8Q4D0XbL0rGhQ="
         }
       },
       "is_incremental": false,
@@ -669,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CvTrackbar.html",
-          "hash": "/h/a0ntgVJ+q1ETMssz/Bpv13EcCB+mMp/GiBdwyLZo="
+          "hash": "z6qXqbPPFvKwfop6ptdWCm5nTjyTeg2KJ9bjZRpJh3s="
         }
       },
       "is_incremental": false,
@@ -681,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DMatch.html",
-          "hash": "2WgHpbiOnzLL81gT09mm4QB6oRX3VzvJUX79iE0AbG8="
+          "hash": "OirI13VTsMwx/SKusILIlPymIdry5DuUPwW8ufTSG/g="
         }
       },
       "is_incremental": false,
@@ -693,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DctFlags.html",
-          "hash": "clxOqLJd6SrvFoqzLptZF+qwym3D48cNCbrf0eRp0lY="
+          "hash": "TlpWOKHDxywKtU6mAs6E6CpnvjjE4mbMViiA+oX0fTo="
         }
       },
       "is_incremental": false,
@@ -705,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DecompTypes.html",
-          "hash": "fT/NuwvZTgiQGBFJfpbnxBwlfj+rUEBuKShQpC9Yx5U="
+          "hash": "J+X4FQPD4ofx9dlu56kSLmVM/kl0c1uaZ0zK0DFu0LY="
         }
       },
       "is_incremental": false,
@@ -717,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DenseOpticalFlowExt.html",
-          "hash": "CmSbv9W5ScWL2Zn2h3Km9/fCHHRUnM5o048Ci5mdXs4="
+          "hash": "0mgemGsdGvDNapuL1EzVM986aB2L4ldWNpdELoqiMiQ="
         }
       },
       "is_incremental": false,
@@ -729,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DescriptorMatcher.html",
-          "hash": "guovo9V/k0HvLrQOwoJKeK5N81h40dzualKOpwSdaBQ="
+          "hash": "bQBjckhwT7mwb6rGfW7dXnU0BN92y59SfBXxwCtSXDY="
         }
       },
       "is_incremental": false,
@@ -741,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.AffineBestOf2NearestMatcher.html",
-          "hash": "FARpSihgMFoufhQdpUw2wQUsDXFB4kFPxBfhv8LAE10="
+          "hash": "oddl2WoxXl/DykBojeGEDB63ZygPsNrcV0T4gOD1fhA="
         }
       },
       "is_incremental": false,
@@ -753,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.BestOf2NearestMatcher.html",
-          "hash": "yRZI9RUz7NGUk5CSWDn+Bn6KUK2+F9SL0KRilzxblbo="
+          "hash": "tmAm/ljYy0fBZRTCf9x1SYL9+K+JXuN4c+ODgNieGmc="
         }
       },
       "is_incremental": false,
@@ -765,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.Blender.html",
-          "hash": "DSWRRW+ye1SNAcRtKJhZjH0kIfcI5YjzuUAomBtMx24="
+          "hash": "s+Uqb5sM3jpEFcAkG4XngOiz86PvNSW8URroH2ePb5U="
         }
       },
       "is_incremental": false,
@@ -777,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.BundleAdjusterBase.html",
-          "hash": "wmFfXJ78sC09ml8Uw8PvYqjMpcfDGTNrYIcg8H7rIDk="
+          "hash": "sjz9srUeaf5BnTub4WjQAUiwU9KInQ1UwHHWIJzBh6k="
         }
       },
       "is_incremental": false,
@@ -789,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.CameraParams.html",
-          "hash": "1nkjVmQfSj4jbmZL4xesvkYmnL9Ur3CsD9BTzHgYFN4="
+          "hash": "jYfHKbmT3j7M/2RGIMIeozTlVepMGERoY63dRzAo7+A="
         }
       },
       "is_incremental": false,
@@ -801,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.CvDetail.html",
-          "hash": "NkGqPm485bGMWvRSBaPYnJtskL8KEtg4k7FKisnauh8="
+          "hash": "GWmTAJ1gjq5FXevrR8aCZlS1+INQbdMoHC2c2qogqPg="
         }
       },
       "is_incremental": false,
@@ -813,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.ExposureCompensator.html",
-          "hash": "kAjJTb/NN/FhdTO/kAPmDAIEJejPPyPfYJOui5TZ3G4="
+          "hash": "dWjcig6Tf90gDAsJPyE/LzVwCt8ntvWNZ2xZBeC5Pgw="
         }
       },
       "is_incremental": false,
@@ -825,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.FeaturesFinder.html",
-          "hash": "VfuMGezfVZMuw458lKQ95ZRdjIY4u+Bdp3a5tGTbuUY="
+          "hash": "bGdyYaxH9XXcaRT3Zjnsuy5R0Xg9MokQ0wR5PLA+rNg="
         }
       },
       "is_incremental": false,
@@ -837,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.FeaturesMatcher.html",
-          "hash": "dprah4Ila7qBw9fxijRmtHmTzv6873NYGcLwvJrsp2k="
+          "hash": "P0vyZ+zC580IzX//lCqgau869j3PGKY/LKsWnk8e4N4="
         }
       },
       "is_incremental": false,
@@ -849,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.ImageFeatures.html",
-          "hash": "RDAUjwm02RQs1oLUVcNz3tuCEaiQXoCEIBNMhYpVg8k="
+          "hash": "k+AA4/dNVIC4MobjT0mGosGSjli6TnX+G/XVBB/rOxE="
         }
       },
       "is_incremental": false,
@@ -861,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.MatchesInfo.html",
-          "hash": "ZaTk6CbksDxVyNtk4NVG6NdPPNrO7g3v4W3cvv3CKN4="
+          "hash": "VehHW5QybuEYNXU0bItJPZTSfL/NZHQn/hQuzmICfi8="
         }
       },
       "is_incremental": false,
@@ -873,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.SeamFinder.html",
-          "hash": "A1sELknutnb2A6y3X4/4RfkAqICHSuozaL8VJpQPZ44="
+          "hash": "4boS+M8FrMvgoKo0Xlkb93/g8vGRlL9ZUSTh78jYTKI="
         }
       },
       "is_incremental": false,
@@ -885,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.WImageFeatures.html",
-          "hash": "9pT6l7uwlWGObP1/jpx+KKyjRzeYRi4XWhWXuQkAzUw="
+          "hash": "RBMC08l/edzfgaNdw5Hms5k2+65vg6ShaGDK/gki+WA="
         }
       },
       "is_incremental": false,
@@ -897,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.WarperCreator.html",
-          "hash": "vFWG6HsjO8R1fpz6bTfQ4FRI6UmX+rfGS5YkDkqiU6k="
+          "hash": "TOI5oHWkz7GXqadfJgHrBzio5mk3+w1fFqthqgVuFxM="
         }
       },
       "is_incremental": false,
@@ -909,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.WaveCorrectKind.html",
-          "hash": "2zdSa9NralRXqJkPH+HcbHmWg/FdzBSlldwuUwp2Tz0="
+          "hash": "jlH8oiYCdNbo69CXWZu2UXXT5VQXQ5A5sjVetjvrpnI="
         }
       },
       "is_incremental": false,
@@ -921,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Detail.html",
-          "hash": "O7bf8/JT8fnu/HXhthMOCXv83cQTronZgYmC3HJjxM4="
+          "hash": "lyBf08Xaa/B7OHQvGYGUiRI0OVko4mBy6WW5aGHITIA="
         }
       },
       "is_incremental": false,
@@ -933,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DetectionROI.html",
-          "hash": "i60fPVBtBYEMBkRHjCEeohsNF1QYMuh/oIx0ANGQauk="
+          "hash": "/h9wDZSbipo/WNPCKQxDFELWpc1ySGjJCVnBReaf600="
         }
       },
       "is_incremental": false,
@@ -945,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DftFlags.html",
-          "hash": "N2O5gqVyIPJSqag5QZUplrOBgrL9F9dIHCmcIPw3C8Q="
+          "hash": "KTIHUUJpKAVey+gb05c1eyseDFpACfv0YbmYMeMWFUQ="
         }
       },
       "is_incremental": false,
@@ -957,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DisposableCvObject.html",
-          "hash": "Y7KdmRrcE25QIEHtST7MAyo6ex1Tjh390EtOJqvaX8g="
+          "hash": "4r8Q8ndaRn5dueokdRJ+WU26+5yv0BxW34TFCID1+gQ="
         }
       },
       "is_incremental": false,
@@ -969,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DisposableObject.html",
-          "hash": "580/K9zS171W82ZVmQHTilaQARo+8wFvB7F4XnpVTq4="
+          "hash": "RdP1AX77G6XNVNQ5Sa1WkZi07ByvTQVq87TN0jxJ8FI="
         }
       },
       "is_incremental": false,
@@ -981,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DistanceTransformLabelTypes.html",
-          "hash": "Cc/iWn2r9VuodnYpHjoxGmn/YBuNd3cuuZDvtCKAEAE="
+          "hash": "EvY27gRs585Ltw0OcbwqoWo1WMy/lI6YWrS4eOH2kEA="
         }
       },
       "is_incremental": false,
@@ -993,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DistanceTransformMasks.html",
-          "hash": "9oz6zLUUxKABiKWSUpxYwz/1vMg9t+VwdiUSXtlMRHo="
+          "hash": "4DczaWcpQp04alAM/pGmEi+HcjYf3lzmnhXKRaud6YQ="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DistanceTypes.html",
-          "hash": "rUHCuOqX5vZyW6edgFMwl+tj48iPXp78bh/Q1zd22kE="
+          "hash": "yF3aEhydOos9ycFnPYGGlP8ixIzGYy2gX3M5xGJGY3Y="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DistributionType.html",
-          "hash": "e53oeOvdYIvI134uonceOOEgPl45n9y9cCAsUE9uYCg="
+          "hash": "L7j3WkdUTAgxLXaBcnfA6EIM2ksGNs6JdpHGN16dUFs="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Dnn.Backend.html",
-          "hash": "5l/Fl4/kzf38idQXHHkeYmQtuMuYHkH7qCmUwAFDRro="
+          "hash": "II+KhfAkTcb6SN6CWjld32AfNXK2x5xkI1jF6B0VqSY="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Dnn.CvDnn.html",
-          "hash": "8hffXwuq6O0VsagCFaDAfYaPMs/6iV1NqvsLSvaDqTs="
+          "hash": "4jIuycF8zTggXFwn8VZIv2GjOhCgLbP19q56Kv4RQCw="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Dnn.Net.html",
-          "hash": "d4g16hknuZbR7eRqE39Kq7/9nyZYuKqCnz4vYmv/leU="
+          "hash": "2fA4AJQCW0JtS+DC7V2WHh8hArV6asF0SZuSbo8a6OI="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Dnn.Target.html",
-          "hash": "/DuB83eGjdIFToKbMKvXdgKcOf6K2bXXvSawaaTMgy4="
+          "hash": "2NdsjJrwfw+DMAf7Wb++NaDhuVYSREtYC9j/YT1nEc4="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Dnn.html",
-          "hash": "5a9ZRRm07u/wl8ZUrXPKFnK+LQwJtcU/VscW+wjHuP8="
+          "hash": "UAtp/fXgIT+G2QogISXyJjF6YeYuHwZMav+M+qOGxEE="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DnnSuperres.DnnSuperResImpl.html",
-          "hash": "PQTTpdTch7YHv7Y5NeEpwKfcVA11u/jon2f81ptVEfA="
+          "hash": "7S+Jz9fbqxr5uAxgLi2epE8EWG5dcoMMaHUx/D+kfNo="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DnnSuperres.html",
-          "hash": "dEpyVTHxNGUL85MoBhUIgWKp/FsEb8aa8BJQ0Vniwmo="
+          "hash": "+XQQYMGnp7IbJUXzOm6XJ9tn46bxyd65g5gcgHdDDyM="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DrawMatchesFlags.html",
-          "hash": "XUidCr+MaH1kwRdUjxwxzDZ1kETl/ekFOocrYhPYI3U="
+          "hash": "Eq8n7CSGst9Kz0w/nbhMqGjiwDFo6fc/5XgaHVrlB9k="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.DualTVL1OpticalFlow.html",
-          "hash": "MBmrpLRN5POuEbE8hbEMlHNsu+5c1HGOQRFu1l56i34="
+          "hash": "9FzhLTs2A89ruZ4cw6/2oub7JU/xD8VM+0LoqiOQH8c="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.EM.StartStep.html",
-          "hash": "tEydfbap/1qKvQbgSyv5ZkNraz0DVDwIJSFHnvjN6fg="
+          "hash": "rkTcEbHJ9hbEabXgae7bQx0lSJqSPXKedCM4+iooJHY="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.EM.Types.html",
-          "hash": "yL6kU8be7e87ErAQo534VpbPiIvuFYCyTWqVDDZc4eo="
+          "hash": "JlxP81FxuhlgORYwjAx85WY9fiZmWosxDHo7Cps3cHA="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.EM.html",
-          "hash": "1wQ62HmbrNOzIoTmLszi5nHZMIzfyCEPLBqOfRd0ovw="
+          "hash": "6daLHW/69EK8woqy9o0c4WEIPFLJ6vOr7vqKSvFCZFc="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.EdgePreservingMethods.html",
-          "hash": "0VJiFpQd0kAhWVLcK7wKiFb7B9p/eZJQtF/RmnctXH0="
+          "hash": "4kmUsGGMaZozKP6Gh+GXVbvVQboNd+ME0U9UXlpOiNw="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ErrorCode.html",
-          "hash": "W/yUIdSUpQFyP0xz9/PygNr53eLu/+O+HofJ5ZKBmQ8="
+          "hash": "sPDYGp3ZwwLc6r4PaBCfRz1DmtNovKRZTkjYjX+CR/4="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.EssentialMatMethod.html",
-          "hash": "esE53V/lB9I5/7RV3RP5eWYLbikkNFDqWDowDleumwQ="
+          "hash": "kg6oHRQEFslEd2M+buyxgdMz7FAohYDmCqNV4BL8kWA="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Extensions.Binarizer.html",
-          "hash": "LkbjKlvYpwmWnFIz3vtx7q0zHzpC9rAKexMzp4BeXYE="
+          "hash": "Rcrj/aOD+4gnduuopxHlDUAAF17fDcrx+ksDT8r2jvc="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Extensions.BitmapConverter.html",
-          "hash": "+fZafUv4o8adT5otkfO6kwQyBWmiY0r9qD5H6+QuYRc="
+          "hash": "JQT4H8Gbvw9xDC+M0pUw7N0DgKFtiGVmGhYSjWELIiU="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Extensions.CvExtensions.html",
-          "hash": "MSlGED1Lfc/1zNOheyaB6IcFZYSuy/nq+CEWcH2Fn80="
+          "hash": "R6+6k3A5kYCDTkfhHpKMHgwZUsdCbY1Jb45ndtAdGDA="
         }
       },
       "is_incremental": false,
@@ -1245,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Extensions.html",
-          "hash": "cu1xdhHSCmSsYuGNq9xQd5BEYSP/vqqpsZ60R+d8jts="
+          "hash": "eIgeJAckMoCJV9T04Wss7O5HR1gKgLAXbZt+Mc3BYXo="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FASTType.html",
-          "hash": "fvc6CjiCShK30wOVFL5nASNsExMGPYnPZOWuxA5edT4="
+          "hash": "2XXR7uCDCgQTG7fpid9rmr/aaRzNpA1DF6byDBje+nI="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.BasicFaceRecognizer.html",
-          "hash": "JY3r/RJ9E6XxEja0mSjeTHI4WIcEA3Ai4J+aw12SZQg="
+          "hash": "srwAJlZS+ln1yIYdBDgfTPGMs8eCeo6hxmWEVZLVUFU="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.EigenFaceRecognizer.html",
-          "hash": "Bw2MwhAjDleO3bePKanXwI3ccpoDWWf+1/xPvSKA24s="
+          "hash": "jSK0Zi0LIVmlTnPrVvCSiUtT0lOwQfbD0uEURyd8Ds4="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FaceRecognizer.html",
-          "hash": "gU1Dlo7PubX6eB0K3eEeAPyD6rL722/WOV0sqo6A73Y="
+          "hash": "iGTDuTrPFJpIVIIRH/65skUYdXZCywpJoyx5jzrcnsU="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.Facemark.html",
-          "hash": "wJS4F8KxVvgnCTYTKBQZJ+T44/tZogIbueczjdLK7ds="
+          "hash": "g8be5VDvOU6hYt0cghSY33ae/qJ8BhCTzEXgkfvagvM="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FacemarkAAM.Params.html",
-          "hash": "6o6dwcLPIjuulRXRly9qf+xZlMs90cIG+vS6VjMERPA="
+          "hash": "MyvPfsq4afQ8948t+VfB5MNWF3ytj8a4Czo8iefec8w="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FacemarkAAM.html",
-          "hash": "qmLhrCkiJ4Ij1sxut88odKPZtWxOzyrbWq2nTvbIQdU="
+          "hash": "+g8f6S/+bhqq/xpQHFFk8TULibA0Wei/8iSc4EgKa+U="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FacemarkLBF.Params.html",
-          "hash": "WlsI7Aqdy3+OoKUFPXcqxHM/f+Psd1os92iEDj5nfWc="
+          "hash": "Z6bmF0gYO7OMZaBqNiAtcHwsRlw5RmM5qHrpFJQA4HI="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FacemarkLBF.html",
-          "hash": "6u77MzuzqdE5WqwQyvQPZjsazx6P2F01qD0kbbGiEXw="
+          "hash": "Sqqe9yVRW5npg3WmCVL1wgHJxPYzciaxpndbzec2aBU="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.FisherFaceRecognizer.html",
-          "hash": "3uvtlmVemW7a5bjw3muSlNAeME5gFe+7CuDLTBT2hiU="
+          "hash": "D4HH2SztiWXTgeCiq9sdYRRQwWnq1+sNkK0E1AGZDVM="
         }
       },
       "is_incremental": false,
@@ -1377,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.LBPHFaceRecognizer.html",
-          "hash": "NOwJh7boOcuzS7W3Fq9Q4KN/SGB+rMD349egc97YocQ="
+          "hash": "u/QWuOZwfhOhikY3Q1/3eKvI+BG94N66ysCYPRuVzNU="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Face.html",
-          "hash": "CV+QqYw8OC7vKTDBCo2MIYu6EQWNHlBHPQRncUB1lao="
+          "hash": "m4k1R3FwqSreKjWOQQhKrm67OrO2l33Fupe7RiIqiFc="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FarnebackOpticalFlow.html",
-          "hash": "S6F5i3vq/2ka9pAEAzBS75lqChdt4T16p/uKssrZpu4="
+          "hash": "6kGjSLpocWC/MauVHKEvUNI3uMPVtyOeSvMLE+bEpUk="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FastFeatureDetector.html",
-          "hash": "cnesURDAmGcteALQV7Igcu+9x+9YtOUcXOrp0OjB1Kw="
+          "hash": "PS0FnWEL6wXlUqbikZBkKxRKh7EOi34EP+z8rljagBA="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Feature2D.html",
-          "hash": "2KgX/F7TCeHMImDtyVh5SwogUj11AhDMOZiTmo6Ynys="
+          "hash": "+8mmacD3w/aZSE7u7Bebdhn6AHP8cIVw3E7IzyLr390="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Features2D.SIFT.html",
-          "hash": "RB0VkZDiY/xbTk9Y1+RoFNsZ6rs5ZBF5ZShqcmqUdgQ="
+          "hash": "u/WYfDk/9uE4o0zl/FD2BSUsHEAhdi4/adRY73wIbtA="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Features2D.html",
-          "hash": "HCIuGcnRT6xUrAd7IjiEcwgb3YOMkGVbGgd1Yo43KYM="
+          "hash": "yuzdO5hI4Fa4ddgL0Dxd6kWjbNQ0W5b+YTHneDHEH6k="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileNode.Types.html",
-          "hash": "BEZ+2MHsz5rt0l58KxWotStQT098vsHmHAIrLQsQqaI="
+          "hash": "OISE5z9/QQXEFDhTImja2ksZCa4t4pY/YohELg55bhw="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileNode.html",
-          "hash": "5I7Sjlz+sYzo/zxLpyriKjp1psx+cbnCjSkoPVG2ECw="
+          "hash": "DBt7Zc3T7vWRygfR7mZexj0SL47/ORUGfSUD62oKt/A="
         }
       },
       "is_incremental": false,
@@ -1485,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileNodeIterator.html",
-          "hash": "mkhC9L23LrAjuuFMh4CQ5J2pG3uwKEBSzF+9geB8PV8="
+          "hash": "d/ZmN8iggYL8WoIUXwlVT4YJMcuA06740TFukVvvxrA="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileStorage.Modes.html",
-          "hash": "VU26OSixAQA8Vf1iudeMRBNu4G3MiJ8GjzgJc++dbIw="
+          "hash": "VBVmBYSgsk5ljN6qoeTLMPM0oFxMfOTg3AiNX0C3KyQ="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileStorage.States.html",
-          "hash": "HSprmQg2u+Z+zhyGbXrQAAn/GdM2KKB+4JMsAlZHNfE="
+          "hash": "HpqzDb4qs4KSf52dRf3kB9yHnutRPqKODbo02VXkk7w="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FileStorage.html",
-          "hash": "KN1ZSFzLMj7tn4Jgr5itOjuKnqKjPD3IQNgv1IACEt0="
+          "hash": "QsR7z31x0JxKuKZJKR7rBpXm692fnk2WMwXpSe491pU="
         }
       },
       "is_incremental": false,
@@ -1533,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FindCirclesGridFlags.html",
-          "hash": "f0A7ube/04wxxQ3FyP8c76MLQoM6reZwdC34f0O67Cg="
+          "hash": "NrTBHyMabVOG+rZzgLE2WY9BEGhbOZNY8YxMyH4z8pE="
         }
       },
       "is_incremental": false,
@@ -1545,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FishEyeCalibrationFlags.html",
-          "hash": "O+S76TN/lmGiZNFKwr0x0ZXxfJI9zoB2vsFJ12rK7ys="
+          "hash": "QOTcuSduGyxp63yEkC2Aq2GNkVws9avtU/fVtAL/USI="
         }
       },
       "is_incremental": false,
@@ -1557,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.AutotunedIndexParams.html",
-          "hash": "mh1igKTz2GK139XXXwW7Wa9c4j31L2Iegyik6LLqzsI="
+          "hash": "CcKIap/JWj3CcR/zqO0ea6xhhDYlfLbihPiyT0PlIhc="
         }
       },
       "is_incremental": false,
@@ -1569,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.CompositeIndexParams.html",
-          "hash": "im2XGBh9tq8tL9nMTBJE7O6ZXH3RoeAfRs4a+jQhDRs="
+          "hash": "og7lfr4pZlglQBgh/V0Habrg9nzv1wPxBMfqJkEBWIg="
         }
       },
       "is_incremental": false,
@@ -1581,7 +1593,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.FlannCentersInit.html",
-          "hash": "9O37uVs7m4TQLMuPN+U/W1A2eZcAkhyKpqd1VZQrJeM="
+          "hash": "a2puuotqo6hbUeNQctKYeWD/HB10S7J5iQE9IYwN1Tc="
         }
       },
       "is_incremental": false,
@@ -1593,7 +1605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.FlannDistance.html",
-          "hash": "jAtaanXMd/tmWApUJbwNsSsiZaiE3Bc8Rfd30HEtNRI="
+          "hash": "DiM50s9wMtIBydVpP8sjrMk4ibLBBLwtaT3mB8NzZ8M="
         }
       },
       "is_incremental": false,
@@ -1605,7 +1617,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.Index.html",
-          "hash": "4D0BkiyxxI1NGhxUFEzgO5jkaCsIUZJRgRgBBmezivg="
+          "hash": "x0QjsC6eVEEHr7mlYwCvrgQGgE+2L2NNOrImTi03D+4="
         }
       },
       "is_incremental": false,
@@ -1617,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.IndexParams.html",
-          "hash": "NJ3AP4dTC2p+kwNicHGmJrsgYYtDygy89pTATtYt6Rw="
+          "hash": "vdyKL0W5p7Ii+g/6OmeD1eiTtVNTkEYPhle4AK1sW60="
         }
       },
       "is_incremental": false,
@@ -1629,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.KDTreeIndexParams.html",
-          "hash": "e8IR6mQRVPZzP/1IvkiY25Q3efavaXyasDzE1FK19E4="
+          "hash": "IMRuE9JeaBqsThyE5I34CE8FTTqtBh3bbxRcRXkN5PQ="
         }
       },
       "is_incremental": false,
@@ -1641,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.KMeansIndexParams.html",
-          "hash": "wPF4VJ4bKxg8f+IWMl2zHVdOxY6jleq7cwy6i36KI5U="
+          "hash": "QzJt4CFd+fGNdZ/pzciE53io9vtcfrfFuRyWv6UkvSQ="
         }
       },
       "is_incremental": false,
@@ -1653,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.LinearIndexParams.html",
-          "hash": "fa8LTJp1CTgZyZEZOXZVE3jqe+2Eu6szxNEuHh7LFHA="
+          "hash": "0WDNDHPzpxWUnBsiaulosZD1LDbssEyRwmTalWoNhXw="
         }
       },
       "is_incremental": false,
@@ -1665,7 +1677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.LshIndexParams.html",
-          "hash": "C/6DLLY8lOVLBL/ohDVX2U5+Lu9NyLFvW2HcJXYrn4g="
+          "hash": "Glm535ybR+hzDQHBkdVIETy+V39YsuS77E3pXqsrNVw="
         }
       },
       "is_incremental": false,
@@ -1677,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.SavedIndexParams.html",
-          "hash": "+CXaTau7U2O8urirwNU0tpQiTwec85cwouQvV138EAM="
+          "hash": "BNA+C34JvLOsP1FhJRClxQkw/K6odEPu+7bjIwi05N0="
         }
       },
       "is_incremental": false,
@@ -1689,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.SearchParams.html",
-          "hash": "Ac1IoEJd9t5xHdg++5e6X1LgpJM/FtLnF+pXWSO0+Uw="
+          "hash": "9M3NPQzdkWPd54Q6xfcChMHdsUc6XsNPryeqRbg9nQo="
         }
       },
       "is_incremental": false,
@@ -1701,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Flann.html",
-          "hash": "1qii77CThEhdUzOieoKBBzfUo3C1ICKlaZQqDmZ8Q20="
+          "hash": "T68sOF4CFkZYnKaBLigl1lmddB8qtlxWYFZpdvCNVXM="
         }
       },
       "is_incremental": false,
@@ -1713,7 +1725,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FlannBasedMatcher.html",
-          "hash": "vnRU11K944maEtD7idT2rJlibM437y0z3rfSnHlnD8s="
+          "hash": "2wZaUDrVdfzjYpZ/LNzf5JOBSuXwSdjfAWMx4tcd6jM="
         }
       },
       "is_incremental": false,
@@ -1725,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FlipMode.html",
-          "hash": "mDCJK0lOZOr+7XgFe15QRBGtMUA5lH4wGWgu7LzM2ic="
+          "hash": "Ng7MrFukq+nQKLUTAxf3/lxBu0m7bieHKUX2dft3ZsE="
         }
       },
       "is_incremental": false,
@@ -1737,7 +1749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FloodFillFlags.html",
-          "hash": "1aw5PCwROsjiM5kkiy8dKs3EsjR9YVuL0PCYTibToCA="
+          "hash": "QDSY+k1dsn8AXDI43G2+INLzCp/UKlfvLk+vBJK2mp4="
         }
       },
       "is_incremental": false,
@@ -1749,7 +1761,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FormatType.html",
-          "hash": "Hd38yricdZ4OnKQS7/oIHCClmKT4dtUjb0jcEbaB8s4="
+          "hash": "2Io28K3XUMhlfcAQ/q0eCDgUeDIhZ0diK4bqJIB/zEE="
         }
       },
       "is_incremental": false,
@@ -1761,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FourCC.html",
-          "hash": "UaI1Fg6h9MNhLceGcbFOQNTlhEjAJ9FciyJzwK0mxp4="
+          "hash": "wE72goG1IcctBZPOys0JAdmbNFBeMy7XtqflNP7+gI4="
         }
       },
       "is_incremental": false,
@@ -1773,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FrameSource.html",
-          "hash": "Izy3HI8uQZdVMbD6y7BvgcuIjjquYUxCkSybiqMYoao="
+          "hash": "yPEty3G6xa6ANGcIxYgfb4Oc1ouKjYDoQHd8/kHLafo="
         }
       },
       "is_incremental": false,
@@ -1785,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.FundamentalMatMethods.html",
-          "hash": "REe55Z8x/8RR8iae3rID3AaMy5czkgj2NJA6su/O0TI="
+          "hash": "TiALvrL4C/Jh2IXM+meYdpq507cqq2bLEypwTTe6WTo="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GFTTDetector.html",
-          "hash": "KFpWyR5xaDa+SV0sscnNp5s7qeBqE9XOax+tzVLq0IY="
+          "hash": "Tf25xVs0diJfJ8SHtPLSUIOQZT24fbsoXPxJI7V3tgk="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GemmFlags.html",
-          "hash": "Im6oYdVSAm124WsbWbFtqv3P3qjymhCPOsKDYslLu8w="
+          "hash": "dRWLYpz+WHz/wkLuFa8q9PRD9YhRTmnX5OTAQWmUyI4="
         }
       },
       "is_incremental": false,
@@ -1821,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GeneralizedHough.html",
-          "hash": "7mMpNe6mv0j2Rab+u7ZqAwqwIwbf8qUKX24DCv30uN0="
+          "hash": "LvgmOBsWju2LMk6r//5132mGG+4tu+vgxChyDm4gg0I="
         }
       },
       "is_incremental": false,
@@ -1833,7 +1845,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GeneralizedHoughBallard.html",
-          "hash": "bdQYN/leZ0aPL+P+sxv+4hj+WsO7u94e4YBMnkiWiNc="
+          "hash": "QQRokrcR16I258R9qUG2r7VJs8oKx2VBSQGQogmyLCc="
         }
       },
       "is_incremental": false,
@@ -1845,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GeneralizedHoughGuil.html",
-          "hash": "tGcpp2gtrkBvERkM4WNXBgQWP27sS470x4h0wPKT5Mw="
+          "hash": "BH+WdeWMG2VWjF28N1gvyiqP9dpOoAKTMYdth4Og01A="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1869,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GrabCutClasses.html",
-          "hash": "wUTbzm2OiTyYQWUv3kkD85IOv6uahnazslWeDGZXjls="
+          "hash": "MalCAOoAH7zZfvphCwZl4BCoGkAvNYCVaKJ/dkHyvDc="
         }
       },
       "is_incremental": false,
@@ -1869,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.GrabCutModes.html",
-          "hash": "sXXc00e2u/bkKc3ozJ6jwlF8xcJ6gM6x2Y4A1Tug4Ck="
+          "hash": "z5nHPDBYKWjBbi6IuX0n1YYlms9AkJ3rUcMBylKkhKw="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HOGDescriptor.html",
-          "hash": "BJh1W9iDlNW/JJ5lhtqMCNkNq7OetbaM5A/i9ya/DXg="
+          "hash": "Cd4Ik8pggrtV1CFr6vOZpI+JeTqD4ivjWSpIcqbjjGU="
         }
       },
       "is_incremental": false,
@@ -1893,7 +1905,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HaarDetectionTypes.html",
-          "hash": "Zsb+JcGhXWon/i2vq4n6+rIjprCCq/MyJtlJzMYJsyk="
+          "hash": "AdzZT1VEn6/d2qlRaJVbB3kq14uEYsAAOhsADlH0IYM="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HandEyeCalibrationMethod.html",
-          "hash": "5gpMx3UUNs+gnl1/lqTTdR4iCOWCZNEnTnoT7M1d2z0="
+          "hash": "80wjjUXcdaq75AWJczBzcuFioOhXJfO20XuTt1lEXzY="
         }
       },
       "is_incremental": false,
@@ -1917,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HausdorffDistanceExtractor.html",
-          "hash": "pPESLhHWW1iwb/0mGMaonLu4VD7OXGT0chz905sSpgo="
+          "hash": "syURJMEveZy5MGGflK+47rWpei/MA2DlFsN5Uytm/Q0="
         }
       },
       "is_incremental": false,
@@ -1929,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HersheyFonts.html",
-          "hash": "Ya2TNP7LqdKj5fuDSLJlK1v4vPz+nyTPL1Rk+x0IjSk="
+          "hash": "XVwpqnUG9FiHglomkW5sXuQJ8hIHbsuKpXeCjsOcGds="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HierarchyIndex.html",
-          "hash": "TMU1W/FVQqrOIu1krw7cupSbZjWcGT/8DRGzr7tk8pE="
+          "hash": "nXwzHHANAJs13pI1LgnApU3FQZcEVORhXyDMTmF7kR8="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HistCompMethods.html",
-          "hash": "My9xbC1ohdECqX/AK9sGGFMBRh85G8qe9ZAM1PmT/DE="
+          "hash": "hpNjswpmI1GaKluj3oVvxVvRgEPPKgdqkals9kmMEzo="
         }
       },
       "is_incremental": false,
@@ -1965,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HistogramNormType.html",
-          "hash": "w8nsY0PKiZCNh7QJjFjngIThLt5bETHS48pI15x2IL8="
+          "hash": "83HZk1xUqDgnKgwtlFLuWvfSYwjLFlIQI/B6K8ctcFc="
         }
       },
       "is_incremental": false,
@@ -1977,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HomographyMethods.html",
-          "hash": "B6lvFPgGQAy12B2gEUF0D1BovUDKtK55k1z/3cLKYBs="
+          "hash": "pBKXRtAi3dPLGf9Lgv5eXmeSi3IrTZNr45Nq6VZDv7o="
         }
       },
       "is_incremental": false,
@@ -1989,7 +2001,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.HoughModes.html",
-          "hash": "qOwaB5L/5i7u9jXOOnicZXgCXDYQMEIevd/8vhy8XRo="
+          "hash": "NOG8Ch7LqqPazjKi55+qalgw8zx7ex3eyV1HtnCBlAc="
         }
       },
       "is_incremental": false,
@@ -2001,7 +2013,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ICvPtrHolder.html",
-          "hash": "EDZbl5CX1cmVyM/Nvb9jlxn1VOoKXx4DMelWWzfJ2So="
+          "hash": "TeKJV/oN1ycJGBHSEEezyfD4P/LVKznyXlSyfgpHqdw="
         }
       },
       "is_incremental": false,
@@ -2013,7 +2025,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.IVec-2.html",
-          "hash": "XUhK9kXfWFBBixjNaDeRjbmx1lWjA+a+YXBsDJEFjDg="
+          "hash": "NRB0vGGNrYh1SjmhoRV9y8uxgC1mOkK86DM0wHQEGFQ="
         }
       },
       "is_incremental": false,
@@ -2025,7 +2037,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.IVec.html",
-          "hash": "NOxCd6xlwDI95QJu+cq1O9/p0HcqonJJGMj1uURyn9M="
+          "hash": "dFzSc7eav3II3XQxvDyMDEEVKo+VULOWnRc47B54c1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.ImageEncodingParam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.ImageEncodingParam.html",
+          "hash": "5h/u859Z0qRXUIBFyc8F7d8Xd7McpftDI8ac0N46Q0g="
         }
       },
       "is_incremental": false,
@@ -2037,7 +2061,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.AverageHash.html",
-          "hash": "9edMjJEEED6vSz12LfbNwlvvW9duJppzyPvN5e3L4yA="
+          "hash": "3v3ONEd95xrL+H0wcPh4ZZltcXH1EOTfLjUkO/Se0sQ="
         }
       },
       "is_incremental": false,
@@ -2049,7 +2073,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.BlockMeanHash.html",
-          "hash": "M6eNsDggaQp6t7p6TKa3qnm1zbEVO5MsmO7GVCS1C+E="
+          "hash": "jwD+XlyUECUBPOCLB1Be4gWPANaDBrZD7qaSPPZQ0ls="
         }
       },
       "is_incremental": false,
@@ -2061,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.BlockMeanHashMode.html",
-          "hash": "2+dDEGraBGTGkPUMiFRSAtMQmfBlKIgHyP+PQ/2MHMM="
+          "hash": "tMzXaW4kbKCivs8P0mEo7lqC6kxWkOEgEc2zWBjMM2M="
         }
       },
       "is_incremental": false,
@@ -2073,7 +2097,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.ColorMomentHash.html",
-          "hash": "/u8oA0EhTFWEMh5uATCojCD2Wkb+oP8qGEU0h6OIPok="
+          "hash": "2r8gQMNQAlMDG4EykeFH9jUFJ9MF5fym59aJoDW+NWo="
         }
       },
       "is_incremental": false,
@@ -2085,7 +2109,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.ImgHashBase.html",
-          "hash": "6FvAWzN5Azh2Ss6v8o59EdD1e4m9fEtMJ15aER2GpZ0="
+          "hash": "qfGRNhwAKAQf7b3qygDvgXAfCUxIl4IXTJ06r3fAC4k="
         }
       },
       "is_incremental": false,
@@ -2097,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.MarrHildrethHash.html",
-          "hash": "4U74FAXfbzMQQ9TpInO9XU1JfuurRaMe2bI4xMXBi4s="
+          "hash": "2rOK+DH+yECojO47tLiBvA2MNAIrtZxqkq2Uqvju7RA="
         }
       },
       "is_incremental": false,
@@ -2109,7 +2133,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.PHash.html",
-          "hash": "+8OikUfnQMk22k4KmYoeXXnNNgYXI7NhecpCzBmf124="
+          "hash": "rtxZFwmMl6SSgma7D57VuiJOZqoj5m6NqL2oRCf94ao="
         }
       },
       "is_incremental": false,
@@ -2121,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.RadialVarianceHash.html",
-          "hash": "tM5FXwnpa3y20SFlFofVKKg6yWtaDa5ZcDpFDOFR4iE="
+          "hash": "eIjw0HCFhux4eag2EK61cieuEIVs3H45XqhEczN5KMc="
         }
       },
       "is_incremental": false,
@@ -2133,7 +2157,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImgHash.html",
-          "hash": "uGn5qzBmClageNz5wytMQ0B+T3Ym6rSWfw7Ojb6Hmvw="
+          "hash": "DhW+44xGVsWICetxDdjCDuWVe0voIGGRZZ3DqBmFQms="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImreadModes.html",
-          "hash": "04yyvSGOf/uFWhzXJJ4JsvrwVFQKEH4u2zx3fX0n8Is="
+          "hash": "8gi/yuuNKngME+GnZeUiB8Vx0Q2cMkFvOyJBhWhqzH0="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2181,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImwriteEXRTypeFlags.html",
-          "hash": "c4WMAAoZA3Tyq6dpP1onW45YuVcTI7ByDv/zZXCXYeE="
+          "hash": "QtFj5DdRH7YPtzxRTz1QybKvVLJ2FsHfk4CKJroRZdU="
         }
       },
       "is_incremental": false,
@@ -2169,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImwriteFlags.html",
-          "hash": "KVSMS5WIiWRBBXInezugE1pS0KPzJBjLWKf3a8tDy3Y="
+          "hash": "Z3iRq4njrR9q8XhyUHQfEQ4AWdC3C6jVGXAlI5a8JGk="
         }
       },
       "is_incremental": false,
@@ -2181,7 +2205,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImwritePAMFlags.html",
-          "hash": "OqGQyp+oTyghC5z60bjqaPalIUxrKEXwdaPQ7VBb3cw="
+          "hash": "eZ7ba+FV9mgJGBS2OIT1LMeyTfdoijyOeF12OihmMKM="
         }
       },
       "is_incremental": false,
@@ -2193,7 +2217,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ImwritePNGFlags.html",
-          "hash": "wKA41i7Vwu4mwDaF6lu0rf3A7NiJhvsIMWowhC3iYcQ="
+          "hash": "Tk28VKz5+BWAH6J2Y1oWQwWM+1YbhyDU5Use3bqb2MY="
         }
       },
       "is_incremental": false,
@@ -2205,7 +2229,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.InOutArrayKind.html",
-          "hash": "yfG952rvgycOlbcWh5AyQtg4OR5NGP0+WE1cRCamPDk="
+          "hash": "F7N8l+8DqADd+IJxvfERFbcxzp3TWDrld4ez6IZxv5I="
         }
       },
       "is_incremental": false,
@@ -2217,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.InpaintMethod.html",
-          "hash": "WN5FL7HpyNnaNc311ys/AsSpOfUf1vyTKIti45r5fxI="
+          "hash": "hdgO3SM8pn4yiiVHBrjS3a2Ijq6nhQEE7SpmPDYpjYc="
         }
       },
       "is_incremental": false,
@@ -2229,7 +2253,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.InputArray.html",
-          "hash": "KxjB2bMarVA8KoxZ6Fbq2DBhj6dYwFRBvwSU7M/NcoE="
+          "hash": "G95mQ2g0d4VnMsJNtEKTIKbgfisuyac9y8EjNc0yJxM="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2265,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.InputOutputArray.html",
-          "hash": "Q2xJLh0fDeot/GQUdoUSziI41td/XTDMxLiD8wA1jXU="
+          "hash": "EHvdlFoD/BaF8WZo/24qT0padXr13oGx/1gaD0JLnMM="
         }
       },
       "is_incremental": false,
@@ -2253,7 +2277,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.ExceptionStatus.html",
-          "hash": "atQY3qczTT91ITFHTaGwrtiHITpZB8N/ArfzXYD4aDU="
+          "hash": "a3g7QKhiU1QQTTtHgetvlQykKdka9KA3kkTE7LKt6w8="
         }
       },
       "is_incremental": false,
@@ -2265,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.NativeMethods.html",
-          "hash": "Z78LGnAbIYyEWPSLjgvq2gmcx0PNXODzxus8Ctqbjxc="
+          "hash": "cLClhFki/zf7M1JFqUHUkkcO2zuAp6LWuObL7lyq5Vg="
         }
       },
       "is_incremental": false,
@@ -2277,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.StdString.html",
-          "hash": "4WczRc16AkHzsAWWtK37QGvobUVv6hUBEcUjK+NLxMg="
+          "hash": "qXLpkC9fDpdSPDn6nf4Ny2MFjysWavBiKBXLHk3Od1c="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.ArrayAddress1-1.html",
-          "hash": "ycB4VVCEimg6hL+VfmAyzffJ9vqLlBjxwxDJUjEOH/c="
+          "hash": "XlEq85B2d7rx4WjIggaETc5Wv4Abvjw14YiAMsk4lBg="
         }
       },
       "is_incremental": false,
@@ -2301,7 +2325,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.ArrayAddress2-1.html",
-          "hash": "RRBiIBjAiqcjgr9HICTlc50fvRFw5iVDIhk9VihXaG4="
+          "hash": "mGUoiV3sRnMizhP5AOaiTqzJ/7pdsCeQ3KqbRKkF8G8="
         }
       },
       "is_incremental": false,
@@ -2313,7 +2337,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.PInvokeHelper.html",
-          "hash": "usvoq6PP4G8vo7xgX9cq22IpBmur38YkNSGCd4zuvpE="
+          "hash": "EQLPD5/94T7pWe7LeNrho2VltVrBzk0bkAmJzr63Pr0="
         }
       },
       "is_incremental": false,
@@ -2325,7 +2349,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.ReadOnlyArray2D-1.html",
-          "hash": "EKYkCZc88N3YO/1kcJBFyaFL9n92sWPhp9rZwdLgpLY="
+          "hash": "G4cXpZTHdOgfl/KYAyJ04Xohil95anoxIZF6qlpkmZ8="
         }
       },
       "is_incremental": false,
@@ -2337,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.SaturateCast.html",
-          "hash": "M+ysS/SnQrtzkKGOTbpH11+IM+pUghEvPNyu/HMlSWE="
+          "hash": "DIObWA0bnWrqzyxcUeAIZc5D53pkWvNdIJWFfF3oyQs="
         }
       },
       "is_incremental": false,
@@ -2349,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.ScopedGCHandle.html",
-          "hash": "3tzQUHo8Lq0+WfTfm6rN+/6/uia9h8ze/JmJCaEwa3k="
+          "hash": "SyD7g7e+nG7r22lRGMP6Nfyz/TOHQD4lwdVy9ljEzLI="
         }
       },
       "is_incremental": false,
@@ -2361,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Util.html",
-          "hash": "bpH2HXWEMGvN8jmisEXvVU2MxVN2EjfWZEPR64vgrZk="
+          "hash": "iOzRRRYkURuLSTbTkRAOmn5CEa3b1I6li/Qdc0NUsxM="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2397,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.IStdVector-1.html",
-          "hash": "TlIbyhXt9R9gjkAOX19QQMEW7+qcFqS2JmbVBAUHPFg="
+          "hash": "zCR0rgeHI61zYnB8MQXrrZAPZk+uYO0BcFrlzYgkjcE="
         }
       },
       "is_incremental": false,
@@ -2385,7 +2409,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfByte.html",
-          "hash": "RsHnXdPE3AgoPh9RNTAQLCLgQi4RMl5xHrfQ4AMfmlw="
+          "hash": "ttdwVsEhuVmG6UxtsyAZ1JpItSI6hDVTHfwubIRkwP0="
         }
       },
       "is_incremental": false,
@@ -2397,7 +2421,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfDMatch.html",
-          "hash": "NZS7OS+5FkiZ324iOh6/BbaJzLNSL7vcXZjLuto84Uc="
+          "hash": "HpbozviIQhYQefgrbMXX9aLyEYnSbVzs8YsXGuBpebo="
         }
       },
       "is_incremental": false,
@@ -2409,7 +2433,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfDTreesNode.html",
-          "hash": "/1y/gIoGmbGpc2IF31kxj/EbMuhE1EVGrq925MRSoeQ="
+          "hash": "KSVN76oj8s5qZFltA7LMAnrx1mlHKPccEh9fV0eHTsY="
         }
       },
       "is_incremental": false,
@@ -2421,7 +2445,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfDouble.html",
-          "hash": "SLN/MFJ+iBgRirOPqLRoiKLon1lgQzEDqDwjvzSls1I="
+          "hash": "6Za5Fn0fdmrpm3zAyVQjcV9rRI5rcNP6U1iAZtgCnbs="
         }
       },
       "is_incremental": false,
@@ -2433,7 +2457,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfFloat.html",
-          "hash": "SWgzzCEMAB+tk6AuftGDlxKTnb0oY4elLN0Wd1oxkhA="
+          "hash": "3u7eRUb3Bz7eYQ6+iFzoTATu6mKI8xLM6QXUpPxH/ls="
         }
       },
       "is_incremental": false,
@@ -2445,7 +2469,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfImageFeatures.html",
-          "hash": "EQ8Pi8Fr8lWYGF8ryrR9R9jRHYgA2ndI8wcSxxMyav0="
+          "hash": "IiBTP22tz7EKuEKkqf78Xm50VsJbxJ7Za72GFZvwpb4="
         }
       },
       "is_incremental": false,
@@ -2457,7 +2481,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfInt32.html",
-          "hash": "WGAQXCCujGDxJFcH5VcqM/UhKzuOa/qDkAK4LyryZoI="
+          "hash": "+8nGdjhVmDYpKecsOEHCJj6K/n9dS5c4ux1YDNtjj9E="
         }
       },
       "is_incremental": false,
@@ -2469,7 +2493,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfKeyPoint.html",
-          "hash": "e/ls+zMTup+IgSN9btu+/z76Ovd93TT2SE5n0xJdfOM="
+          "hash": "NwMcxLwzUoZqmyZ4OpSk0JoGzXWlp+Cd68eR9P308P0="
         }
       },
       "is_incremental": false,
@@ -2481,7 +2505,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfMat.html",
-          "hash": "NnyOXjEICarYu21lENlozlLu8iCoSmDx9uUhiH/UUqw="
+          "hash": "0Oq/WT3RShYMkeP9x84Fo2DIIWqcapQ9x3gWWvtwjFU="
         }
       },
       "is_incremental": false,
@@ -2493,7 +2517,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfPoint.html",
-          "hash": "20RomA23vjVxZQQSxCNaxo9dK6gsPfmf99s+kQiu6xg="
+          "hash": "WO8HTI+1gzXes9/rzrKXv9LwDCwCBcDEKMU7dp1jMeA="
         }
       },
       "is_incremental": false,
@@ -2505,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfPoint2d.html",
-          "hash": "14Hj9oEpypgLkC1G+coxPSH3vwe+OnHpdbdHTup0xuM="
+          "hash": "9IE0r3Z744nAw9QILyyXU6GbN9IuSAMSCMgXZuCWWF4="
         }
       },
       "is_incremental": false,
@@ -2517,7 +2541,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfPoint2f.html",
-          "hash": "kmQwU864qQpv3PMNonATrQroZUzrgr5d95QzGlORn5c="
+          "hash": "TYlbuFYqAMQRgU4lFTKcAe8QnFYBliR/F1BbD19G+dE="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2553,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfPoint3f.html",
-          "hash": "tJh9QL5efcqNOKvajidgF+SlxRncZfvLfTgJyTX/MKk="
+          "hash": "MWunM7yMmD48icgO2jDCdh+3gvJfEqtMV3xE5Gl43cQ="
         }
       },
       "is_incremental": false,
@@ -2541,7 +2565,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfRect.html",
-          "hash": "3aCTQ5bM0LkhoscdJ/Mt7JNM73GjR7aKogv4CIevDJc="
+          "hash": "db1NC95MlERInUVWL4gT2zo0k2zqG962oHs5EKyUllE="
         }
       },
       "is_incremental": false,
@@ -2553,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfRect2d.html",
-          "hash": "oy0mFKFFk7Qiy/djStiP4zAS0HJ3qfFtreKnCDTf4Z0="
+          "hash": "QMhJQNezmpOAfV4tyv3X9ylYlsIkWkj4KmfFiJ5dhyQ="
         }
       },
       "is_incremental": false,
@@ -2565,7 +2589,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfRotatedRect.html",
-          "hash": "D9zvLdVS2mo+UFJp9FsRG/7udgwe22+Msel1WqtNkBk="
+          "hash": "EG9hEaX3IPDZLQe6pTbbeV6/Yg1A4SvYuV4gwDHgVX0="
         }
       },
       "is_incremental": false,
@@ -2577,7 +2601,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfString.html",
-          "hash": "BmYEV7EykMUq4dGc3bDTblHr85X+MWUWADWapTuqGHE="
+          "hash": "bRCwmTm+c+8lhHEVtNPZZpwql4u1jstKoZ2qn7kwqoA="
         }
       },
       "is_incremental": false,
@@ -2589,7 +2613,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVec2f.html",
-          "hash": "O5ByyvpCgv8xD2sS9iS9QYbQqc+BGGd/BD4mqVlQY6w="
+          "hash": "Z6JtNq2tZCdFVZrAsJEQ6/74UyVU8VbjX6PN8rrz0TI="
         }
       },
       "is_incremental": false,
@@ -2601,7 +2625,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVec3f.html",
-          "hash": "7rOuhXAW4C7PCXAJlV64nYXIg3uZmbgRZTk4COJix7w="
+          "hash": "r1lN+xApqNE4Kk9aaUR/AhtXd63E3TpFlRSI669TU7g="
         }
       },
       "is_incremental": false,
@@ -2613,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVec4f.html",
-          "hash": "0g1JzavcEsP7KybsmPrINKPIsVbBCP0RXcOvRF7Hvsg="
+          "hash": "dvxk90Tk5PbNsCH9MjS2QFHoicHd2T7SScp/e2vGWGQ="
         }
       },
       "is_incremental": false,
@@ -2625,7 +2649,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVec4i.html",
-          "hash": "pruCcUvQp95bXoj7sgKvVKS8ahEZNoSQbDmcu68yDCY="
+          "hash": "ALLrNw0ZVzZKpE2VB9TRN2rEk+StzthU8IvVBG6rwUw="
         }
       },
       "is_incremental": false,
@@ -2637,7 +2661,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorByte.html",
-          "hash": "oFErKabqkCYdgJ+BkncJxMzm73KyOgciqEuUHucXUHo="
+          "hash": "0z+B1FPDgpc32uz+IFU7WoqzPrAVnfhy6W4FH/ysVuA="
         }
       },
       "is_incremental": false,
@@ -2649,7 +2673,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorDMatch.html",
-          "hash": "hhuMGD+L47bHU2F46RBRr8lLRsVtY79JdfR38egjJr8="
+          "hash": "qqQ41rA2hvkJRR97gouBYA9MbCErmueatJgWsAxy7Dc="
         }
       },
       "is_incremental": false,
@@ -2661,7 +2685,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorDouble.html",
-          "hash": "PxztEGoZKz9gOF1JalqvMbpbZodTf7LF1QKA3WiIF3M="
+          "hash": "iDTT6B4kwqNj8+WEgS7Z+NwdSdriOekHZIjhhaUBBfs="
         }
       },
       "is_incremental": false,
@@ -2673,7 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorInt32.html",
-          "hash": "Iwl23QBih8IUY2LVxdoCByG3/SnBEdCcKK7fmTGuOMM="
+          "hash": "fY4t4YG8KMGcJ2AAo/XXrMYQ/HpVdtA5QwQ8o9pWoIY="
         }
       },
       "is_incremental": false,
@@ -2685,7 +2709,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorKeyPoint.html",
-          "hash": "LCWWaxHofnSESL1mugfnmlESSmPQob8Wfa8cAlbzkbs="
+          "hash": "6IgtQBRdtxCLwJlYwS8wDGZRHZKCdekIEMeoU2BQfy8="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorPoint.html",
-          "hash": "/R443fjWITimPcAjzRPupzB3ThFs00ht2pIYiPGTiOg="
+          "hash": "aktZlLNJo1K4vw6yhFOFyYxjgem2Hilwr1E+CIqPeds="
         }
       },
       "is_incremental": false,
@@ -2709,7 +2733,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.VectorOfVectorPoint2f.html",
-          "hash": "dCD6v3ig9i+nBub8CWS5zFekJLLnMpL/kCiSekcun8A="
+          "hash": "TsAYRdotmcXA8npIFi+n3ucuP/tZyK/Xnu9GUGqPn+w="
         }
       },
       "is_incremental": false,
@@ -2721,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Vectors.html",
-          "hash": "vmyD8FPz1X9yNh43Ikz5nf9InhLIWcy454nuHYNx4nk="
+          "hash": "SegBZPk8ijeuQTYvXsM7ZMa4pILmE5hYuJlMcqKRDOo="
         }
       },
       "is_incremental": false,
@@ -2733,7 +2757,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.Win32Api.html",
-          "hash": "IBswxZxnsSvbTBYkzJOGHK4ljpaXEtuNfoj93wYzv2s="
+          "hash": "Ng00q8mwWGNd2XfxF+I88VKrtqZhKAKr21L8tnq/dTQ="
         }
       },
       "is_incremental": false,
@@ -2745,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.WindowsLibraryLoader.html",
-          "hash": "h3EoM/1bKJcQlKce4XqYnThQBvVZHbVEhVtUS1DEfZI="
+          "hash": "/WXgMC+TFGYTMiuKHuPaGNHhKKRMT52lUFEmOTnvJpE="
         }
       },
       "is_incremental": false,
@@ -2757,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.html",
-          "hash": "U1X/txAoVyFXkXuvtcya8K3NOk0CSQB3qj5LOznSRE0="
+          "hash": "7ZKxM9ohKL8L80Qbxzqon4mkuUFQe44FzsSJsIL5/nA="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2793,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.InterpolationFlags.html",
-          "hash": "9JcCavQXkY8n49I46VczVyGk7LmZudFZ4ADg3p8QbmE="
+          "hash": "y21LwWQUtr2T3qVOZnGHklZXa9AVJzibjIzOrwvNtW4="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2805,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KAZE.html",
-          "hash": "EAw83U1klJveJpwe1zkmDjGx7oaaRsltEAAy380SLfk="
+          "hash": "fFkpCCg/3lrGzNnrHbgdLO36kuyet3YQ/Orld41DrhE="
         }
       },
       "is_incremental": false,
@@ -2793,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KAZEDiffusivityType.html",
-          "hash": "PqO/MtD07K0K3RoHqOcP765FATjqlBXwNJqfQGNXomU="
+          "hash": "bdHMFBzeEd26i4iPVq16vT09wX6iS6+yl6n5FgA/61M="
         }
       },
       "is_incremental": false,
@@ -2805,7 +2829,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KMeansFlags.html",
-          "hash": "Vk5w75v/UijOs5U3MMWCqg6VhrHF/fAtCn875Hg635k="
+          "hash": "9QxFxeW6FP4xi2HhwQVZVcvROGM8rftThQNjFc4NtDg="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KalmanFilter.html",
-          "hash": "z6Y71AkQfPgvU1O4zSo2VQOM3EbWXwrqkzchh3NS2zA="
+          "hash": "ru8xYfPmvuS+2TDRWQDxEYXmrSsLqJUTdlDfKggxQ9E="
         }
       },
       "is_incremental": false,
@@ -2829,7 +2853,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KeyPoint.html",
-          "hash": "QfmJu8YfCVqdM9SkmSZKTymoHq9SiuN/SI/e1Pc0YnI="
+          "hash": "6diUGrkD10B9QKJ/UshA8zXIhK1lYHZwY1ojwG6K9Mk="
         }
       },
       "is_incremental": false,
@@ -2841,7 +2865,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.KeyPointsFilter.html",
-          "hash": "7FC9f+RhnFsIvq0YSb+Z70J4V8BsV+GYKkKmeTqF7s4="
+          "hash": "H8iwP2qAcOBlx0oVz9FBvBe071rx1YWpDz18qZShQJA="
         }
       },
       "is_incremental": false,
@@ -2853,7 +2877,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LDA.html",
-          "hash": "+EHqE8OENo4LpoHW2yVp+unRiD3qnXJ5P3By7qjaATo="
+          "hash": "4UzgIsIcoWzWb/VIFdTzMN4O90ANdpSO/J62ZLZFU3k="
         }
       },
       "is_incremental": false,
@@ -2865,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Line2D.html",
-          "hash": "n5lHcgQTlWc8hoTFiZZd5SRVmkvoMskGzYRgKpLOOGM="
+          "hash": "9yo+T/HRtGpKGYmgQ2f6SX/GAx6xrIEP1ot/oqvxMlU="
         }
       },
       "is_incremental": false,
@@ -2877,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Line3D.html",
-          "hash": "pKXR+b1gfjZ35p4kEMgZhumymZQmaIMR6i/kiQd9Lmg="
+          "hash": "/3dStSAVi7Mj/0oRqXtRQwAsn6xU0fqJGMPJ3NsP7eg="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineDescriptor.KeyLine.html",
-          "hash": "OGifCq/0BwwSTmTLNpzJdBFNLKfOM6q/cPyXdwhLmdc="
+          "hash": "8ej4PvXzziR6PXlU4tfTJNyw9sSwOwRitrHhUR3gkz4="
         }
       },
       "is_incremental": false,
@@ -2901,7 +2925,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineDescriptor.LSDParam.html",
-          "hash": "t+jodhEBooBJRCelx6iCUd06zkMOCUu6oJhHEqmm/vY="
+          "hash": "IHrkuW3zomJCRJVCtRGxGr6bvb+Ghc6zGISFMJn8bx4="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2937,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineDescriptor.html",
-          "hash": "mpW9Uxk4Txy3X8sljFWgTCR9nR0ugPY9VNesdD/ttCc="
+          "hash": "ov181d3Bdl4FM0FhllMKV439Kqd+dsEoraXYMU0P7ms="
         }
       },
       "is_incremental": false,
@@ -2925,7 +2949,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineIterator.Pixel.html",
-          "hash": "YDG9sM3699ouZiszUjvaxxgf87MEvR02G/sHiWFxJnw="
+          "hash": "B/2fq9ovkbY0nM6zae3wTreccYyezNMDR46G3ERvXUk="
         }
       },
       "is_incremental": false,
@@ -2937,7 +2961,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineIterator.html",
-          "hash": "LUytOpWjF4P99iodbt9eO/lPXFyRAfIMIkE49tUZAr8="
+          "hash": "9VyWeQVcUrZydLPCZW9zWKRn8l/HETqDalKVy5flvEI="
         }
       },
       "is_incremental": false,
@@ -2949,7 +2973,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineSegmentPoint.html",
-          "hash": "x/NgiDwrXz3XoOf5Rv1G8teB7zfpSYB18AqZZ+HKvzg="
+          "hash": "Vn8W8y1lyr9aNv5LN17EvxcZ6ogUjSZmOiiTpGEWzfk="
         }
       },
       "is_incremental": false,
@@ -2961,7 +2985,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineSegmentPolar.html",
-          "hash": "k81CodS9Ts6F5LClgs1gHqbKnzYUvySDvTTm/SnXBAU="
+          "hash": "ATU9N5rhbQslB1L0n+K26AJIotbY0YjcUWEB/PxXOi4="
         }
       },
       "is_incremental": false,
@@ -2973,7 +2997,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.LineTypes.html",
-          "hash": "988NuBLAw6zn7ibe+8yrRCR3b9WA47TAw1bu3+7hKPw="
+          "hash": "NKEUQBQ1d6fhTfn5sHIsg+C9HdA9zcaKLl/cb9FQJ54="
         }
       },
       "is_incremental": false,
@@ -2985,7 +3009,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.ANN_MLP.ActivationFunctions.html",
-          "hash": "Ow0HQAxE+SV/JJ8U6rTR3juEJG1jpx1QIlpBkmJmRkQ="
+          "hash": "VZs1+QYfpFW0AbOCDn442VnEZy2zWwf2ww0nd5AUWOo="
         }
       },
       "is_incremental": false,
@@ -2997,7 +3021,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.ANN_MLP.TrainFlags.html",
-          "hash": "W4sDKvMGnQfrOrWr6sXRopxaYXvcaZxFUJEzzaMUJ5w="
+          "hash": "mN0GkcSy+Bmr0XA+aIC0Bg2akvrkTCQNrGka/ZwlZX4="
         }
       },
       "is_incremental": false,
@@ -3009,7 +3033,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.ANN_MLP.TrainingMethods.html",
-          "hash": "wLu6srHG4wSiHUQt4RimE/1iCCJHiK9B0TOhZ8j+Tr0="
+          "hash": "3bayDXkcHRrY3D7xSwen7ehi0N1nQPTLlOarI1iDJm0="
         }
       },
       "is_incremental": false,
@@ -3021,7 +3045,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.ANN_MLP.html",
-          "hash": "0qF550nsQJdO8+BdFNl1u+d3PgMoMqnUv0GnerrGrvc="
+          "hash": "DhN5H6k3wi425ny8eYPmWwsAjnuBegU0GKmE0D3rxBM="
         }
       },
       "is_incremental": false,
@@ -3033,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.Boost.Types.html",
-          "hash": "yjywN3hDsermQHaORAUZEAed8xrwwgqFEICUmHKNhWM="
+          "hash": "1xzLty4Z3QfO9bdp2e5zSSy6urYJtUhN791h6RzXfMs="
         }
       },
       "is_incremental": false,
@@ -3045,7 +3069,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.Boost.html",
-          "hash": "OnJs9maYi/ePPMs736bcrXFeobesW/pqsVf4hOW+aow="
+          "hash": "8yI4z8izo7OBNOds4R/szSxrCT14rPzL3CNkSG0H34M="
         }
       },
       "is_incremental": false,
@@ -3057,7 +3081,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.DTrees.Node.html",
-          "hash": "YR91ektIYp3mLvOC99JLglJhvINE0U745XP6KEMp/nw="
+          "hash": "HDpAL8RhjFpu30mu5QWrPKSTQgj05Cijtpl7+zAbSFg="
         }
       },
       "is_incremental": false,
@@ -3069,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.DTrees.Split.html",
-          "hash": "174lnygytVnfgSBKA2rPVxZrc0S5rQbP8LvZb3W3yj0="
+          "hash": "plewlYiRoE2PZi4nFGNmH5g4/y0RoVHt7aoybfvQRX0="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.DTrees.html",
-          "hash": "MJfHFZuiGJ2CFsWHrkAAlXuZFZlSKez6hGlPqlypKXw="
+          "hash": "WWMcvrs91dRcPfqG+oMlbgVxxui3KBJoiHVHsl0e90I="
         }
       },
       "is_incremental": false,
@@ -3093,7 +3117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.KNearest.Types.html",
-          "hash": "Sd8X78rgzGp9qvPPkwsXcURJbpjnYvpW3XH0TA5HwpQ="
+          "hash": "cj8z6ZvWCL76M61IT7xS14dklrrfO72GJH1McVkDYoo="
         }
       },
       "is_incremental": false,
@@ -3105,7 +3129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.KNearest.html",
-          "hash": "HYFXp8GaUngurxYUUyJaoLBPgDgzPmLmc/tpm7OCYho="
+          "hash": "RaZL4iEqHg5S5lX12qEbw/gvLYuJS9tyYiFyv0ftDn8="
         }
       },
       "is_incremental": false,
@@ -3117,7 +3141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.LogisticRegression.Methods.html",
-          "hash": "n0+vutJ6B3j8dNFe7VuLVszjY9zE/0upzs8LwyfOL18="
+          "hash": "d8RN1v4FN6xLqZlnEJ7ukfPmphIjdsw8R2vATAKoF6Q="
         }
       },
       "is_incremental": false,
@@ -3129,7 +3153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.LogisticRegression.RegKinds.html",
-          "hash": "fYGR/Kg2kS+kqV9WH2ajLNA8LRSz3Ikz9j4Ta6Wf9es="
+          "hash": "gl9Aac7sHqQwIEQ4pc04bCfj49aFiQQd7ZQnJ9FYUAU="
         }
       },
       "is_incremental": false,
@@ -3141,7 +3165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.LogisticRegression.html",
-          "hash": "bXgN52TisPgZgFurKqEAyg3nXJOE5NDIlmxJFGRWelQ="
+          "hash": "RWfZeU6Ec56R8VhEzSi9809w8LyO8kQ8jM3LpwLWXFw="
         }
       },
       "is_incremental": false,
@@ -3153,7 +3177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.NormalBayesClassifier.html",
-          "hash": "7wPrlwrm3nZDHuRkPcn4CQnZhnKwvlrE5kJziGQ9bNg="
+          "hash": "thciPSkSH5qj6fkPnmG423S3aa8AD5YIIzhBUp5DxPo="
         }
       },
       "is_incremental": false,
@@ -3165,7 +3189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.ParamGrid.html",
-          "hash": "IRH1Nnyn8I50CFDohbhIU3hQbJYrs9Q7qJc6KEIH40o="
+          "hash": "5l7X0zB5I+9owny0vejJOgryWN4/oViVseJVt4CnvTY="
         }
       },
       "is_incremental": false,
@@ -3177,19 +3201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.RTrees.html",
-          "hash": "exk1TcNjUvroBZ12zmlq+Xqcaa6BIUiqrFRKONwobco="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/OpenCvSharp.ML.SVM.Kernel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/OpenCvSharp.ML.SVM.Kernel.html",
-          "hash": "jEoB81jetXFQmpm7ZGRnOmj0YscaclTEhCloxk4rLC0="
+          "hash": "lEOSajTPnDqKltr6r3E+c4TzGcsW7IoSJo14B57uPEk="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.SVM.KernelTypes.html",
-          "hash": "9xC5bt0CWJH3RfunxZS6/ruzu53PStE6jKNgrVM7AgU="
+          "hash": "AZRsWtL0s4hivNA+Mse506whiDtuTq88t1QjhxTmlhc="
         }
       },
       "is_incremental": false,
@@ -3213,7 +3225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.SVM.ParamTypes.html",
-          "hash": "ltyzU0bDo/Is3+0uNn+9RfsrwWtFTEE4a+3tpBfSfeQ="
+          "hash": "RmiYAwZF7NdDnP9ZgQvktq55KSGonNgTDyslz/oWhEM="
         }
       },
       "is_incremental": false,
@@ -3225,7 +3237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.SVM.Types.html",
-          "hash": "3lsSGFKJS1HrbtkjtpOczf3bv+jl2Vw406XiIeZIw+E="
+          "hash": "o+Km5Bhe2QZvj03zgXxn/SIjxzThH4eaJP+PDzYh1rw="
         }
       },
       "is_incremental": false,
@@ -3237,7 +3249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.SVM.html",
-          "hash": "fN44VVGNawktlq3Q+FhnzdXn71zicMC41DrROISKtFw="
+          "hash": "L0ZJYHGqq8U+hvYfKRC1NGhS6XxFB3ImdOQCtQTj3e8="
         }
       },
       "is_incremental": false,
@@ -3249,7 +3261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.SampleTypes.html",
-          "hash": "WiAxY1/YIcAt25XeiHnzOTIclC84lL/9CR0vmpLTYYk="
+          "hash": "EL2nHLwSo6UdsrZJk7qCJM+RAm9e5OUEDG1ePYv/Lh4="
         }
       },
       "is_incremental": false,
@@ -3261,7 +3273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.StatModel.Flags.html",
-          "hash": "64MgKGgPTADo9v8F1/D4X+j1Od9m/YMOxLN204BKJcA="
+          "hash": "XdPwmIsUpo4Shmbm7pwtt6DwPeSF98LxOsB08vqR9OI="
         }
       },
       "is_incremental": false,
@@ -3273,7 +3285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.StatModel.html",
-          "hash": "EjAlPTX+dwlkmVk1mCgq2e9O8rHbv0Y4YN4Ok0t73QE="
+          "hash": "08U+dr+MNJciU2TsNYMnMTEgoFgTIMCcDWbUI9UtSRw="
         }
       },
       "is_incremental": false,
@@ -3285,7 +3297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.TrainData.html",
-          "hash": "vmHVABVRCfOpyzlfohjSLr42/f2O+3nFu3wmaPQoq2g="
+          "hash": "eW9f3Pi9cybH/Nr/RXKj+rcv7cwz0MFL9hM6A5O9vcw="
         }
       },
       "is_incremental": false,
@@ -3297,7 +3309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ML.html",
-          "hash": "v8Lax0+wq/HlHkGvXE/o6hgOtDCciGftxYrH99UFcqg="
+          "hash": "2dRXXxFzucqaiAOLsCh9aqn9+lleHg1kgMWOKjsYtlY="
         }
       },
       "is_incremental": false,
@@ -3309,7 +3321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MSER.html",
-          "hash": "uCiW629HmkIxgJmFNiZci222+CuJRTVxLPKlfhoDaEE="
+          "hash": "bRCYpcTMSEq6B3tsN4uZIRsZauyc2gtwMSazje8SADk="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MarkerTypes.html",
-          "hash": "0v0KGPK2zqolUhY9E68j8qJ/MVB3y9g/GWWdEu7pA7M="
+          "hash": "eZeeKbjIt5MCAfmCmxu11P79nvPRlUJJOHhCm1QU6jQ="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat-1.Indexer.html",
-          "hash": "Z8pcqavN++rX9LYWbmgyuEFOAavbqn9q9ktGf+m4w9Q="
+          "hash": "Bz4kcM+10ucCvDjmdGCei+3WoZ11D4i9BsRE5fZhp0o="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat-1.html",
-          "hash": "FV8XvBUM+KVOoOYxllQlrqGtvEzXbn2tSy7mg7bs9b4="
+          "hash": "yNSyjPO88SGoDpSfc4doUlWd7br/uUlTd+hdA0rVX9g="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat.Indexer-1.html",
-          "hash": "9hf5i5QWhRGrzM72ljRQmBux9dGviXZbZwmX9LEAui8="
+          "hash": "wru7gRAv1sL+ppCg1SQMy8eNzROGLmb068wUR+0zkZk="
         }
       },
       "is_incremental": false,
@@ -3369,7 +3381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat.UnsafeIndexer-1.html",
-          "hash": "xRxjQOh3qKSxuDBY3NlAqjDPGSeoy6/P7oLmPpkaBWc="
+          "hash": "X1lOW7TzbXIBug+z9seotCNgCvImdxfFI+jh7Km+BMc="
         }
       },
       "is_incremental": false,
@@ -3381,7 +3393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat.html",
-          "hash": "zCHBQedKS22CPFwwaOm/RRVPo/80xRO7wVZB3mMVRPI="
+          "hash": "uG5edpB4Q1VevQGKNnhqcB0Qn3gif6np0KfA98CNW3g="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatDiagType.html",
-          "hash": "3kKm4HtL78kGBTMKiYAdGKXoMXuulwAckUkJeq5MaY4="
+          "hash": "oza/5RFNQ8kjBOuJYkfn+5030C15W64sEfFgwt+/LWk="
         }
       },
       "is_incremental": false,
@@ -3405,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatExpr.html",
-          "hash": "rG+FjvVl2w0girqBqgXrkL382R4eAzB7pqC+Mnsytog="
+          "hash": "OBTHYkEeBstg4MT8SiBwKB+w/hLjtbs9QvfqCbB8Gto="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatExprRowColIndexer.html",
-          "hash": "OG2ASeNLGJv+EyzgX7DTgF2rzXUdFNG0Q6AZ/rgJCzc="
+          "hash": "ZkTVVU+PjSQuxJQ5LyI4vYncRbVaQ3ZO4Po3SLSuf+s="
         }
       },
       "is_incremental": false,
@@ -3429,7 +3441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionByte.html",
-          "hash": "vGKHnzsQLzNHRYay19VMrJ7YYB+jrmxZ2xjWujJvwuQ="
+          "hash": "r1kqcGMbMLuRkbyZlgrny1aYLACMJ8tzHrL2/R1VI74="
         }
       },
       "is_incremental": false,
@@ -3441,7 +3453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionDouble.html",
-          "hash": "TXD4tMrE6pv6/OoOXIOlBNrK03WwfmTZhNZJjdZhKtE="
+          "hash": "ife+Zpb3LEcyZb1p+3mQQ54aEyb4Lq4z7/DyhUVDCP0="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionFloat.html",
-          "hash": "LqzrBOXIz9CoCFjkRP+jStCSjFiWWDOvwJs64UZg08o="
+          "hash": "7gsuTnsZJC+QdUJUNNi1jthnVKv/Nz6+2bu19v9LwjU="
         }
       },
       "is_incremental": false,
@@ -3465,7 +3477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionInt16.html",
-          "hash": "wBQe6aCjix+CempUjwagQEjLS0J3V+W8za3pei9hOEU="
+          "hash": "AcYGQTh+GoagSTcaT21v1292wmOGsv9cLTk0g7wFpp0="
         }
       },
       "is_incremental": false,
@@ -3477,7 +3489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionInt32.html",
-          "hash": "jQSNWdwM+eiXRsuPqzMLlXq7RK0gldEmrT+JHvX09JU="
+          "hash": "E8Ed/9rmCYg8NOPDDwD5Ws8CY/SwQz5VSGcCPTJzNgY="
         }
       },
       "is_incremental": false,
@@ -3489,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec2b.html",
-          "hash": "WZB4+iU5WJtZk7JWoA6LSi9vNSjcwOuvJRHGH6ChtKI="
+          "hash": "XxzS3rvfoit9oFO9YfhRnLt0S6wnW07EYMfZTqmDMFg="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec2d.html",
-          "hash": "06tZZBCf/UpMO/q4tt1R1Lph6hVqLQTjlphVaf2OwRM="
+          "hash": "HdpyuSGFrscIwUE2TEZpYphsXUU8LbYc9FCEN25/Er4="
         }
       },
       "is_incremental": false,
@@ -3513,7 +3525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec2f.html",
-          "hash": "2+6kztR3TCvyOXDsztQaOwTL6eivgYoejm5WL7twwy8="
+          "hash": "mahJ/bRGTVtK9QIwsy5xBnsMKJbMzTAKiq95Q4rTmAA="
         }
       },
       "is_incremental": false,
@@ -3525,7 +3537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec2i.html",
-          "hash": "1LUxPNNdKMninaBe4qp4GMkMzc9O79gAFqAKof024W0="
+          "hash": "zyTGzBBGokl46sv0tMbOCdVCMnbnk2TnvK0bIUQUfO0="
         }
       },
       "is_incremental": false,
@@ -3537,7 +3549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec2s.html",
-          "hash": "DMbuRqaudyuvJO0uYHhyukcgMEwfbeOqiarWh0RKs48="
+          "hash": "oh7H9PNTIzg4BbMOVzw3PqnBGwCvRF1Q+MvITn0fVtY="
         }
       },
       "is_incremental": false,
@@ -3549,7 +3561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec3b.html",
-          "hash": "nMhujJXUsXX1SOerZQqEDzSxInWXhm97i9O3pvZHIdQ="
+          "hash": "H+m3S5+8Wi+wLlWtueqM7owHPnEFhdSWl413DidVO3o="
         }
       },
       "is_incremental": false,
@@ -3561,7 +3573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec3d.html",
-          "hash": "uqEE32/WGc2pYIEl3YafAI9tZdEj/Yol1V+/IXmWgVI="
+          "hash": "b/0+CeJWGZTkVBj/QDQFAfr/XDYxe4T6sXX+iBpCkXc="
         }
       },
       "is_incremental": false,
@@ -3573,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec3f.html",
-          "hash": "IRPHJbzdhkMK7saoQvTzU/LeTSNTojPHio1FTmy97zU="
+          "hash": "F0gONp4dnbUMTN5TyYWKaW0xbxaVEG9IkIK2tKm4W3A="
         }
       },
       "is_incremental": false,
@@ -3585,7 +3597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec3i.html",
-          "hash": "ry+IhkfEls10Qtr0yJPfgqM/fz/XWyiQ8u+EJ7oJfzM="
+          "hash": "lBCZdx06qQEAQ1R86iUlxSeMacD32e1kUFbqecM0H8w="
         }
       },
       "is_incremental": false,
@@ -3597,7 +3609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec3s.html",
-          "hash": "1586BwFtTcO+ndpelCZZm4kB9N9vtRalDJWVbqViRNg="
+          "hash": "P0GM9gXEr3TFBHS+Uk8l+NdDYLSD+qFvcqLarPHDFlA="
         }
       },
       "is_incremental": false,
@@ -3609,7 +3621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec4b.html",
-          "hash": "uZfZrXzMJXH836+9Nv1Jk7wWL3SRWQIVmEX+OiBbmFs="
+          "hash": "MTQ9A+ubhqlybwTb9fr8wMBgbYQ0P3JOto6RyzQhzFQ="
         }
       },
       "is_incremental": false,
@@ -3621,7 +3633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec4d.html",
-          "hash": "j7S7m+rfn+YZkqRE177IBno+TXmIwVCWQ6luLUDfcFI="
+          "hash": "yOq2BeP76gydLdCFSuGBxUJwW+PGr6xZY36UaqPezd0="
         }
       },
       "is_incremental": false,
@@ -3633,7 +3645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec4f.html",
-          "hash": "iO2Wh0S34Tglccia2QI5baowNAqRL3pc+r6Lc09nNJQ="
+          "hash": "AvAD1L/xZh4qAzRgX2VPySHOa4y+cOVgJpZ5OW0F74I="
         }
       },
       "is_incremental": false,
@@ -3645,7 +3657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec4i.html",
-          "hash": "gJFb4SefimDkZq8wJJbvXt/ZOW5iImHSuavHs1wVlQg="
+          "hash": "GzjsN80pHjpsxc/zCAKxHIrJDFw/T1epCwhSNSFoksk="
         }
       },
       "is_incremental": false,
@@ -3657,7 +3669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec4s.html",
-          "hash": "njs9Iw+XV94loV3EjIWuSTWJJ6sf0bTjMnCs/GnjuHI="
+          "hash": "RkpauX1XNzgIolyza/8J6wsj0NVkNuKN78MAdwCkiFg="
         }
       },
       "is_incremental": false,
@@ -3669,7 +3681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec6b.html",
-          "hash": "g2x5GpKEPvt3TtafP7iA8PP6Izm2/IQXOxiCcNhmKsk="
+          "hash": "HjP+xRKlTpj/2eXR+ab8yv+zDXjRPLoRyYzMGWeoFV8="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec6d.html",
-          "hash": "hv52TBKN1b66LMIeno7TXYxSviiILrJNsIhXwd06hT4="
+          "hash": "l+grG4viUrWjya/keqXzRgE3kit4/Co3XGEFpM5XzLc="
         }
       },
       "is_incremental": false,
@@ -3693,7 +3705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec6f.html",
-          "hash": "26UuC0uaeGN+Q/f9OHJ5RjWV5wNlrB/EU7O4vyOnwpA="
+          "hash": "5jIdt1B5xPrm08I8m7aO2EAyjii9oUTN3u5Yp28Xph4="
         }
       },
       "is_incremental": false,
@@ -3705,7 +3717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec6i.html",
-          "hash": "BZ/AxMonafPHkHRo3ut0RhvQlirHaY2tu6Q+5BUqILI="
+          "hash": "iGHVaxISL0UDlMsKg+yJS4iwCGFs9BDIw7DyhWe1vdk="
         }
       },
       "is_incremental": false,
@@ -3717,7 +3729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatForeachFunctionVec6s.html",
-          "hash": "o0a9irjCP2iSbTDCE/+M2UQhG6vE73I71QoHTib7Nvk="
+          "hash": "jm7SLtgKRSDTkhJKnqLYrRzOxrGVfJMHNaU3AvaAEHQ="
         }
       },
       "is_incremental": false,
@@ -3729,7 +3741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatIndexer-1.html",
-          "hash": "WDiSVwHeIzYUg9SmkI0zUw29Lpx2aChVTsL3ePBtFac="
+          "hash": "XdrNMIZATKbpyxmyb/4yBIOel9i1uCD6g3lE7t0MwbY="
         }
       },
       "is_incremental": false,
@@ -3741,7 +3753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MatType.html",
-          "hash": "7C/t7PkZR/YityrSlse9unm1lOz8FVp508FPKgm9OQs="
+          "hash": "6CTws8+aqCc3FP98iRoLdsmZpfueKBFDLiia7Ydzfm8="
         }
       },
       "is_incremental": false,
@@ -3753,7 +3765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MergeDebevec.html",
-          "hash": "DNbbewXEEcLDVCj31IsNCni1m8kMzNbHxcdXbQMEEBA="
+          "hash": "yuH2ABPOm7nOMAybYSWwKSsKlfjaM1ljtbFcwGERaGQ="
         }
       },
       "is_incremental": false,
@@ -3765,7 +3777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MergeExposures.html",
-          "hash": "1L1Mw+ZAW6FoqDytRWMvNao84RE2Lkt3Xo2SR0yFvP0="
+          "hash": "aHEGKdExoizr1nv80/YKn+uXvcDLR6745qMpkL1crS8="
         }
       },
       "is_incremental": false,
@@ -3777,7 +3789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MergeMertens.html",
-          "hash": "xU/uiofVhN2E3Y32PMtMeJM000yBtZNTn0r4YcK4+Nk="
+          "hash": "xbqgdnWzZxFhSO4+Qp32C3xXL0GH/s5F36FL1KIeJXo="
         }
       },
       "is_incremental": false,
@@ -3789,7 +3801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Moments.NativeStruct.html",
-          "hash": "Ia/+X0wvI/TAPff0FKuuGyBRVUzNOkQT+3fLbKXT0zM="
+          "hash": "ls+i1a8mqXgE5qgGQCyU8KNE6uTE+M78TwsVbbPQn8Y="
         }
       },
       "is_incremental": false,
@@ -3801,7 +3813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Moments.html",
-          "hash": "ZAw/6DxR29CPT+HLO6AxrBJY4FO4E+xZnJTPjdJ46rc="
+          "hash": "TW2Bi6JRVb+G6Rt9J7IlQR4JVu0/bgkmZMYdoIli808="
         }
       },
       "is_incremental": false,
@@ -3813,7 +3825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MorphShapes.html",
-          "hash": "IYLPfPw2p9kWZMDe1xRMqnnO3WmMuobRSxuF/bLGPr0="
+          "hash": "r9A9Zv/G3DziUziUWy1N4wAbDBUrdBc+A2VupMfYbQs="
         }
       },
       "is_incremental": false,
@@ -3825,7 +3837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MorphTypes.html",
-          "hash": "OuNIoP7zg9SSgcdnqXCq9eNRbo+45y5kFTsdb64DB0A="
+          "hash": "3ykqVUbl9XfqmxtttXwIYX+gyPAQyh3FUAk6T/RMNX8="
         }
       },
       "is_incremental": false,
@@ -3837,7 +3849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MotionTypes.html",
-          "hash": "OkLAPJJp6vJ/BtyJsIjG54dikyMH7AgXOh++SD5o2Cg="
+          "hash": "lJoRu/AuftCJr2oEfQbQaQRDl/azSsfm1wBJVlJobE4="
         }
       },
       "is_incremental": false,
@@ -3849,7 +3861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MouseCallback.html",
-          "hash": "4RPXp/zcPgjd+tpHFwP5glmX+PgEtfyE1wvs49BCDG8="
+          "hash": "7tbixE1G0gcSx84aQaQ/pJPsK5bHwqKj0tRZcs0PF9M="
         }
       },
       "is_incremental": false,
@@ -3861,7 +3873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MouseEventFlags.html",
-          "hash": "BIBJmACXvw0YOq8sswxd9Fd+LqhqdBK1FaSXPY7hQr8="
+          "hash": "Mztr0oVZm+MtEhu3gV045DkploJnWtDzcPrdsOaH+QI="
         }
       },
       "is_incremental": false,
@@ -3873,7 +3885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.MouseEventTypes.html",
-          "hash": "fsbo96J+VFbkdYjK841qnza/Xee+X/rryUlKPUWRdcE="
+          "hash": "ROJ01I/jrBZ4K1hRNATawGtgNbcIWJ5cl7NhxSvlyB8="
         }
       },
       "is_incremental": false,
@@ -3885,7 +3897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.NextEdgeType.html",
-          "hash": "oHq+4EY1eDuL7NwYInyHffcf+T3FhLzjRlcKP/e7pp4="
+          "hash": "ic7Yc1x4Yn5smMtra8SNnAZ94udmAxVVDL/MxZ5EXx4="
         }
       },
       "is_incremental": false,
@@ -3897,7 +3909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.NormTypes.html",
-          "hash": "3utSppIhDcTx0yHaqA4oFH/mmjJaLKs6ydX7kOqtd6g="
+          "hash": "MeMT4MH0X1rkuqP/ok3t+OLruqKKnAWAKHVb56zBvik="
         }
       },
       "is_incremental": false,
@@ -3909,7 +3921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ORB.html",
-          "hash": "vj8ImgteE/KSi2CeWxH5tl2EaMLMqlDL0B2+Y83aERk="
+          "hash": "2J65xxGokkJDv6LmMzW2Re5no9hSAnG+OmdI1jU3NeU="
         }
       },
       "is_incremental": false,
@@ -3921,7 +3933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ORBScoreType.html",
-          "hash": "/LJM146mXbAg3Ihkk+18IPPbRfwnQptNo0Jr9s1AJR4="
+          "hash": "Ixv4sAU4/nr1K/ejlNKsPEkOetDB2u5AIgnH+arwGX8="
         }
       },
       "is_incremental": false,
@@ -3933,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OpenCVException.html",
-          "hash": "WYJGTj8FTnedzt0F47BJB246mGNet5188j5ezBWhFBk="
+          "hash": "DyrnL3KWI0BzT8g4TrnHgcEYwdGayfKDTxW1pJ5wrCo="
         }
       },
       "is_incremental": false,
@@ -3945,7 +3957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OpenCvSharpException.html",
-          "hash": "yu8aLlB6zOXM0SXN5+/PX/2tjYldDyZPwIFD2Q+sQZs="
+          "hash": "gd/fOTs+fGuH+bqpTNU7olfAsFwWGUy7SnK3dwQeHfw="
         }
       },
       "is_incremental": false,
@@ -3957,7 +3969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OptFlow.CvOptFlow.html",
-          "hash": "0n9vSw2fWTGr9+GDg/E9R7RCf3Wy/yZzXpit1wX3BWc="
+          "hash": "rD74fwYw1WzcuIgB766osl2xwo7hVPspxQB+Zhsj/0g="
         }
       },
       "is_incremental": false,
@@ -3969,7 +3981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OptFlow.html",
-          "hash": "f+y1SF20xsaZbCrTYmG3sEfNxqu7kqJXXz7j1GGbRvw="
+          "hash": "Ezt/P/Lc91rtGcGSEjqDHs/4sxbbACEHRSl7ZmUAFTk="
         }
       },
       "is_incremental": false,
@@ -3981,7 +3993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OpticalFlowFlags.html",
-          "hash": "+knbvgYGSct1jxdAL1iWNpfgCxeVGy/UQI1kdfASIuY="
+          "hash": "Iz9F+YHrEk63kjxoKwHgpkOYNqqV5Sy3xHiKzF22UJ4="
         }
       },
       "is_incremental": false,
@@ -3993,7 +4005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OutputArray.html",
-          "hash": "RItIchyk3Ih2HeSVM2OhcNyQwseSth45k341Ijr+92c="
+          "hash": "GtWBxRjaBJzpyKwJ6/aqY6/+QMWdFdioTgcaPisSxOs="
         }
       },
       "is_incremental": false,
@@ -4005,7 +4017,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OutputArrayOfMatList.html",
-          "hash": "bqu5eJ3XJv2sd7XkjlUWYXFNvsTxi1+p8Ks2I7T5MPQ="
+          "hash": "aRRV6ZW6WaYltbb1v40Z1xWKoM5SNUqqbGpKTMab6Cs="
         }
       },
       "is_incremental": false,
@@ -4017,7 +4029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.OutputArrayOfStructList-1.html",
-          "hash": "gxJal6fDYakL8Ilvt3JdZuY+uZOBhrOiuKjQDaE1oyg="
+          "hash": "7pBNFZ/onAgDuvKmZaoIHtygHRqUvJyPoQZXR73GJIE="
         }
       },
       "is_incremental": false,
@@ -4029,7 +4041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.PCA.Flags.html",
-          "hash": "lpw2GUnhVHBCYmwRu7Wbofo46K7HOobHcZOEFdmhTFM="
+          "hash": "1/Q87v6tBLPlKdnD6+sJRjEVUC5Vw8pz/2TanvWfoMw="
         }
       },
       "is_incremental": false,
@@ -4041,7 +4053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.PCA.html",
-          "hash": "DdEp/rH1u/TCGfWvarfx8Z32bj1Swv0PWfN3zG3lU1I="
+          "hash": "SigYhlBa/dcqzZ3giPh1WMJpQGnD9Bm+krCjSjqYK0g="
         }
       },
       "is_incremental": false,
@@ -4053,7 +4065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.PixelConnectivity.html",
-          "hash": "kk4wftcjSsm6sjBaxn6JSMPfDb0/OL5AQvjKks2Desg="
+          "hash": "/qlK1WrH50NWvsPty1u8qjwJjj4wLMumBa/yOrQoYWU="
         }
       },
       "is_incremental": false,
@@ -4065,7 +4077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point.html",
-          "hash": "Ldj1LtW+YkJL2Wg0v3nKrb3mLOBaPD6BWaeMbqMuSMQ="
+          "hash": "+vnPvgrvqKBqN6TXJiT1A4XMPcwC3SsbiFaG0PzDMx0="
         }
       },
       "is_incremental": false,
@@ -4077,7 +4089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point2d.html",
-          "hash": "+VlzZ5sn+q4c75GRzWitk9FyFu0mLe0bjcnnpNqe+Pw="
+          "hash": "21xR1lLG0xv2tlia1sqyn+K+o09wzw9d78GxzU2gNak="
         }
       },
       "is_incremental": false,
@@ -4089,7 +4101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point2f.html",
-          "hash": "+2FaGfOKPfHyTWZ0dxHR+p/WhTw+QZs/Ex0EESLkhtA="
+          "hash": "gKPunk0sJLCLxR72AjBCgi3gHnZEKlt3F6CKIcs7iqw="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point3d.html",
-          "hash": "3bEa+NuADZUsPThmU85+dvR6hrb3UncjSR7c767xohk="
+          "hash": "FRDdj3AYP6otuj7/7Xw5rgzDtl0NLRZcV3XJEmJegC8="
         }
       },
       "is_incremental": false,
@@ -4113,7 +4125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point3f.html",
-          "hash": "wbAzOONhdI3wTjUFVHWgEOyOb65Yi/ANaZIndLhlGfU="
+          "hash": "6wIujoMCj6Q7hHGRfCGH6M1WcK0PFUJiDBn5fB+J5C4="
         }
       },
       "is_incremental": false,
@@ -4125,7 +4137,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Point3i.html",
-          "hash": "cWbkv3gT24XZZpM/Dwaz66184q2itIlBqH7AaU7wGwc="
+          "hash": "NfUw5ZjXyPECMmLgbNY22oHJzlPjEEr18WfEROJcYfs="
         }
       },
       "is_incremental": false,
@@ -4137,7 +4149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ProjectionType.html",
-          "hash": "6XVMGUh1rhWRNv3joF3mKwAWdfAUQTBDdsBzj6ItOqA="
+          "hash": "Ek+2/Tb7Juc6iFcnBBjTyV3VOiwz8q2svKl5WBdWQ+E="
         }
       },
       "is_incremental": false,
@@ -4149,7 +4161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Ptr.html",
-          "hash": "3mkNIO55+ScZlnngNNMRMomypDNOtDpM4NesN4uM1qQ="
+          "hash": "mwFMQduFwix6pUGUkNK37bEP2OOE63UevpSKZr5NoAM="
         }
       },
       "is_incremental": false,
@@ -4161,7 +4173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.PyrLKOpticalFlow.html",
-          "hash": "ZtvNZVsALysJnSwLB/hSSA69P6cBVW/JwTLy96B+PN8="
+          "hash": "AObwlmtatdxOpke6qyQSuk6BPrxcdZyf8lMWSN3HWcU="
         }
       },
       "is_incremental": false,
@@ -4173,7 +4185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.QRCodeDetector.html",
-          "hash": "4bqNYCkLXeQlKs71BuVI/Ip1s1A1nskTSU9CCctu4nM="
+          "hash": "SVjo4piJp/ULOjufKMZZbZTTvDrMi87bKLs19ybl9Io="
         }
       },
       "is_incremental": false,
@@ -4185,7 +4197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualityBRISQUE.html",
-          "hash": "50mZU1nurwGskyA4XjUgXG1icIkHfbo4ZBmQ2w2yP4s="
+          "hash": "yLSQWCTohTwsdvmm7acktyLO89qh1UgC11tWV2204nA="
         }
       },
       "is_incremental": false,
@@ -4197,7 +4209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualityBase.html",
-          "hash": "72zGvmKAHmNjWBfdHowGMDyw32B40rshaqrc7+/wweQ="
+          "hash": "lQNh5p8lG1SMAE2vMvyMBGo3Bv2QNUYAPiDVAWm+CU4="
         }
       },
       "is_incremental": false,
@@ -4209,7 +4221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualityGMSD.html",
-          "hash": "0qIHPrQvQl7ujsLs5SoC3/4PF0qKqrPlb1VsIVevDZM="
+          "hash": "Y1Mwy3RkD1zXHmHbxMc59BwKOpAFfzSgoFc9P8df3sY="
         }
       },
       "is_incremental": false,
@@ -4221,7 +4233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualityMSE.html",
-          "hash": "BQ9VWEXhqv5ZiSNZaIs2ER0w17R03kXK/svBmnTSnjU="
+          "hash": "EHwbpBpUJJ8CFvef257d6gUJS+RApFPNLEfp2OeUHGU="
         }
       },
       "is_incremental": false,
@@ -4233,7 +4245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualityPSNR.html",
-          "hash": "GfOiKaIDzbrAUtcei/YVvQ7kS689YehW+K8IkaQAk4Y="
+          "hash": "Ne72S8/FobbgOVP44Swdd/5ZUrs/V/9ugkn5kplQaXM="
         }
       },
       "is_incremental": false,
@@ -4245,7 +4257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.QualitySSIM.html",
-          "hash": "tchtNiHgFnH293lf12ORHzR/VBHiTT1TGQV0QoV6HH0="
+          "hash": "iY8WHhlXdHn6N+fJulkJ4l3E9QdptgDT4cqLpOzd7NE="
         }
       },
       "is_incremental": false,
@@ -4257,7 +4269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Quality.html",
-          "hash": "Y87QM6+2STMxLBbZiZYfLbBcCwNanwvvIqIn/yqMYn8="
+          "hash": "yLmwqT6o1Qf6NFa/g2mapkpR1pTpoi5T0gUZ8cSAv58="
         }
       },
       "is_incremental": false,
@@ -4269,7 +4281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RNG.html",
-          "hash": "Q9tQ6pN/cJ9+AyIujbORJT+h++ArFs6XGLx+fyCSRyU="
+          "hash": "bbXeQZS/0iVN3Xmb9csZCAK7UyHgXgHDMsq3qIM/tDg="
         }
       },
       "is_incremental": false,
@@ -4281,7 +4293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RNG_MT19937.html",
-          "hash": "bm1hqn+4MsR1lZp/oAyPBQJFquVUfmR5ZxXwTclcxc8="
+          "hash": "p3lAZDKzYv208rpL7ztc+Mg4KW2hm22AKbKVl7FhAeM="
         }
       },
       "is_incremental": false,
@@ -4293,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Range.html",
-          "hash": "zJzY2e0C1r4PxrRAf+Gmk/jLvZpxymAw+U7Wr7rhi1k="
+          "hash": "XsEnSlCzHJb2Zs6g26A0a/rzOVihX4pzoEmPHFToMZA="
         }
       },
       "is_incremental": false,
@@ -4305,7 +4317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Rangef.html",
-          "hash": "exHC2K8/mAjyrXWWG9kpdFGoBBkHfD9QoqB6DKcI38k="
+          "hash": "4wWgdk6D8m8wx3HfcmrtfQlnM3cIIL5BE1JhJlgX9s4="
         }
       },
       "is_incremental": false,
@@ -4317,7 +4329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Rect.html",
-          "hash": "MzA/eN0SkRg0PSHoYgB+9K/FQ0AN6m9CETDR3u0ZLmY="
+          "hash": "dQfEIBk7OMWKutKlXfIgDCwjIMxrh9A2ZgDFodzZOr4="
         }
       },
       "is_incremental": false,
@@ -4329,7 +4341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Rect2d.html",
-          "hash": "4pjBIn3Rc/dmcBPMno9C1zOQtjm7p1Oi1+T94PCMiL8="
+          "hash": "OP31w1Y4i5ibcDxvuL60FGTFexi4ETEhXO1cYcfoQIs="
         }
       },
       "is_incremental": false,
@@ -4341,7 +4353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Rect2f.html",
-          "hash": "DrtVfZJnQmYb0yJowf9RAAgba3Y0OfXTse/AzibdDRk="
+          "hash": "AHMwGiZZ+1w8rTSMAx2gd+jF1hQFFwhXFdyuZxzXpGc="
         }
       },
       "is_incremental": false,
@@ -4353,7 +4365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RectanglesIntersectTypes.html",
-          "hash": "W1FwlzaMIw/+0E4wgGi1HO9nHMdMLULLRjoRZiP5X1g="
+          "hash": "vMBfRREL/1ia+9/AR/a+RHXdGvidwVGtvN9+AdCa68k="
         }
       },
       "is_incremental": false,
@@ -4365,7 +4377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ReduceDimension.html",
-          "hash": "OXZ7MT01vl9zrCpvO2Jwy4A8forni2E5so9py3X8geU="
+          "hash": "gVfY1jvBGZ6TiecziFZpkox2R+BPtRT1sR/43Iuu3eg="
         }
       },
       "is_incremental": false,
@@ -4377,7 +4389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ReduceTypes.html",
-          "hash": "/hSt1LCpnqy+Ujn58MER5kekc/vrq59HELodm+U073o="
+          "hash": "VFlPR48DDXyKoSbhtVGelP9EaDhuAixysAAeo9/sbaU="
         }
       },
       "is_incremental": false,
@@ -4389,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ResourcesTracker.html",
-          "hash": "uU4F9jNWFZ0PejOttzsJdu8GWQFZ2i5sBX/+7XqHY8E="
+          "hash": "2TjIHfxTP+eBgH+lOJug0lRITnkM/cs55ThyE4Tt4SI="
         }
       },
       "is_incremental": false,
@@ -4401,7 +4413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RetrievalModes.html",
-          "hash": "/87RrlHq5AQcfra8n2pg83yeLSkRJ2Pum8MFXmmnrB8="
+          "hash": "WCYw+fD7DG5cgDU1oC3c+yTCTsPqdKH7NdecBRybMMY="
         }
       },
       "is_incremental": false,
@@ -4413,7 +4425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RidgeDetectionFilter.html",
-          "hash": "qN91SkUp4PYWZZvV0i5WbNDe8qadIUnxO+SRZ1fhkpU="
+          "hash": "t7w4AqKGVBq5ywmj7aF8Ajlqzw8UCJDK6SIWTt28Zj8="
         }
       },
       "is_incremental": false,
@@ -4425,7 +4437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RobotWorldHandEyeCalibrationMethod.html",
-          "hash": "LFOqMN2dFobc8fSUrzjgngQCI0EXNm7fC6D55yclvqE="
+          "hash": "gCbAjvbf3MQgTej3GJ4vdN2viP1RwRBJz6XmqvLVKOk="
         }
       },
       "is_incremental": false,
@@ -4437,7 +4449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RobustEstimationAlgorithms.html",
-          "hash": "O17pflIS5vk7pTZTGDUbMtT0/SjNmuAteqjHsiB0mOk="
+          "hash": "qXXalKozYiVi7jcwJ0r5WnMNuvm1ILSRCicfrmJbYdQ="
         }
       },
       "is_incremental": false,
@@ -4449,7 +4461,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RotateFlags.html",
-          "hash": "00Ba1UBggnVShqzaTT2lkNqy69hL7v1a2DjmaTXVVPs="
+          "hash": "BOeGMmKQWavOKdxyZak4lHIUHgBSYvPU9zhZF8+igNI="
         }
       },
       "is_incremental": false,
@@ -4461,7 +4473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.RotatedRect.html",
-          "hash": "aPiesxCsg47t+tvFbA4k1/ePJTFUk5ipXPys50i1jYs="
+          "hash": "QF1N7anA0rDd7TpfcSQWQ3sbLjpnCQVAxzPZ64F+yq0="
         }
       },
       "is_incremental": false,
@@ -4473,7 +4485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SVD.Flags.html",
-          "hash": "y32hAhnt683XFgl6X90au+xX1uxrkeDuR8BBVulpC5w="
+          "hash": "v6pVo3A/xlc/S2/GvBVjcf0nHrntRLq24RFizYB/NTk="
         }
       },
       "is_incremental": false,
@@ -4485,7 +4497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SVD.html",
-          "hash": "dXUxvJHHh4PNRJ334nl/mRMsOeqy9mg4xCRDvD4AVes="
+          "hash": "Pwyi2BO8jcYzUZsweQlaFMxpzA5kU8XNKS0sUeHDKAM="
         }
       },
       "is_incremental": false,
@@ -4497,7 +4509,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Scalar.html",
-          "hash": "XNs0Gmb3V+76CfFleu9Dit2vVkosGMohmJYSMAIm1Cg="
+          "hash": "RMK04SCigRCl3X1dPFwwg2Utez1aoIBf1iw2TgSYfxQ="
         }
       },
       "is_incremental": false,
@@ -4509,7 +4521,31 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SeamlessCloneMethods.html",
-          "hash": "/UNuAgAtg4n4KWldnIAFOgkscXVOxNphl2HNPloVPo8="
+          "hash": "QzLBa1+pMhQtNPwWnJsYorMB4WKyqis/rneEe/bbfdc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.Segmentation.IntelligentScissorsMB.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.Segmentation.IntelligentScissorsMB.html",
+          "hash": "6PRkkCnIoUazGgB/ppsTzljbMxNVZwixfek562hWTGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.Segmentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.Segmentation.html",
+          "hash": "SWQIPb88NgRNg0LBW8XzL62CdbJNEiUiDi8MDvJlGJU="
         }
       },
       "is_incremental": false,
@@ -4521,7 +4557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ShapeContextDistanceExtractor.html",
-          "hash": "e1u81ctHqJfshBudILvks1lfgDC3PomOXLPLXAfLaDg="
+          "hash": "dK1xjKPr81AIdEDiC86GSwnsRhi8NA74o4WSi6c6cx8="
         }
       },
       "is_incremental": false,
@@ -4533,7 +4569,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ShapeDistanceExtractor.html",
-          "hash": "Jz3rGV+gOjRuGi+VQ7ca0ApYEyfvYxCZBlCVwGjoBAc="
+          "hash": "EIiFZjNFlTJ3lu0wfrpyOzUevxO4oFJoAwr1+RthhZU="
         }
       },
       "is_incremental": false,
@@ -4545,7 +4581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ShapeMatchModes.html",
-          "hash": "4xPwup1Wj8DzkNE6gvxgcHCGB6i6Uxl1dQZIcutSXXI="
+          "hash": "BWhQQgwjNV6GQZ3INUo+PmOhgYNT42ZiPmWP65z9alk="
         }
       },
       "is_incremental": false,
@@ -4557,7 +4593,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SimilarRects.html",
-          "hash": "dC6UF82SkxRg0NgBb+MGVMesNimHACw01A4WD5Oy1E8="
+          "hash": "jgIZc1qk2kfSyUSQLVYeYnFuva8/3pdsocMoPOrdtfA="
         }
       },
       "is_incremental": false,
@@ -4569,7 +4605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SimpleBlobDetector.Params.html",
-          "hash": "RBzdBEyrNWH9UoEQIvcc3HJ+NXqXM690egCKcqCh2Mo="
+          "hash": "x7KFAWCA2QwGN84rJJnhlf7lJra60KuQIvZMSKMh5Lk="
         }
       },
       "is_incremental": false,
@@ -4581,7 +4617,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SimpleBlobDetector.WParams.html",
-          "hash": "bImk1xpmNkulG1GkJQ0aDX1ugNr5nAhyM9VNxOGHGzo="
+          "hash": "rFnCSo2CVGUPOjfctYg39bgODjDyW+luETSd1+2GBW4="
         }
       },
       "is_incremental": false,
@@ -4593,7 +4629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SimpleBlobDetector.html",
-          "hash": "M3/cqn0C2gDftHMNVfqM016xEx5q5snqeO3MfjX8XTU="
+          "hash": "acigC9ClLcz9fpg7KR5CN1TahJIKTPBlU/0ikABNm0s="
         }
       },
       "is_incremental": false,
@@ -4605,7 +4641,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Size.html",
-          "hash": "WOJ/KWVm7Fog/0Oywz9J3vLhWRdaN7kJV9qPkbGo5EU="
+          "hash": "Q85fXzol4+ZSnezamAoBuUJ/eVmDSh9x4nNkUhGa4GQ="
         }
       },
       "is_incremental": false,
@@ -4617,7 +4653,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Size2d.html",
-          "hash": "sA2vfuuYAUrxieHpd8lVP8IRaEvoy8oxWnxTc0Fn6eM="
+          "hash": "I/IpIlWmvXgYiUIpBaLBCqgRQOCapSkGJ79fMvB4gpY="
         }
       },
       "is_incremental": false,
@@ -4629,7 +4665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Size2f.html",
-          "hash": "L1OlZDcUfRD85UiStfK2TwUb/VFNrpNQkYYdbMthILI="
+          "hash": "ZErEQFB3dxTuLGcsTnOkC0K2lOf+Jyss5IXV+aW2F90="
         }
       },
       "is_incremental": false,
@@ -4641,7 +4677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SolveLPResult.html",
-          "hash": "9/eyWW/Z9ogprO5cR7t0Xq65c775PiESwet/jdSezaE="
+          "hash": "ogi/4bcxJs9GoIY55saP5V3YFhjcdabHU4bfZIWzneA="
         }
       },
       "is_incremental": false,
@@ -4653,7 +4689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SolvePnPFlags.html",
-          "hash": "y/DbJr628Iml6eozV8BUMiXQjL8OtV26B70A5A8LFwE="
+          "hash": "A7Q5ZJY+mHGgx3eQPL2fJboUQvAJExk+Z9geAdlJJS4="
         }
       },
       "is_incremental": false,
@@ -4665,7 +4701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SortFlags.html",
-          "hash": "zi/9GVb7Dc/HQCu4FI1DrRuzkYK2fKlWsCzmMcfXZFk="
+          "hash": "dszB9Pxn7lkkZAOd7oEw3nnV0tTn3/okEzrE+OV3G94="
         }
       },
       "is_incremental": false,
@@ -4677,7 +4713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SparseMat.Indexer-1.html",
-          "hash": "HRqByCuqKWF1yjdWF79XueCgk7kVT3XVZ/fEL3vdU2I="
+          "hash": "WEG0s3Qcaa74HazOzeQWXAeYQ6yYRKr+rZF6K43f0TY="
         }
       },
       "is_incremental": false,
@@ -4689,7 +4725,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SparseMat.html",
-          "hash": "3T4IuOgjYb23D+bZkzdSjmrx1YVUnYSUQ+cL+557Cv4="
+          "hash": "YgouVAYDbWA+sBgIU22j/ZKoMequu8ggO7bB5xO6jpM="
         }
       },
       "is_incremental": false,
@@ -4701,7 +4737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SparseMatIndexer-1.html",
-          "hash": "aLNzYvN8zKZoXF7qLd72PEHJOtCt2DCPsukoTGXrVkg="
+          "hash": "XkqVcRGv0aVyPf5l5nXHHD2n3+ujFHkUr/T4ua7Btm0="
         }
       },
       "is_incremental": false,
@@ -4713,7 +4749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.StereoBM.html",
-          "hash": "hVl/CVrY8LzUoztKuteP25UTU/vG2z1OG5+/TBcGkXM="
+          "hash": "6DEjLj/WXZIK1s8E4jjZZlKEpZLTJKxRAuecfyrvw2s="
         }
       },
       "is_incremental": false,
@@ -4725,7 +4761,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.StereoMatcher.html",
-          "hash": "CEa5CCGoxZyWh8ZF1dTuERjS1yNf2Mi7Tf5Fwte5w5Q="
+          "hash": "5cqa1Y0yihEPemfrDESKWmNqfBoW+9TG/41rg+DGkf8="
         }
       },
       "is_incremental": false,
@@ -4737,7 +4773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.StereoRectificationFlags.html",
-          "hash": "108LVXXFtb+iNi2hoQawob4KsPd3nTn+UQhSyLiLucQ="
+          "hash": "PWHLlpriP7oeoB9Q3W53Ohz1WzpviEXgiT2BwLbXeVk="
         }
       },
       "is_incremental": false,
@@ -4749,7 +4785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.StereoSGBM.html",
-          "hash": "XSn7/GrzVKdzibmhOeDLN9c5bZ1IS71sVtFtpCGYypE="
+          "hash": "R+ZFjNRevtWYfKUZVSqDFyz80LBt4iRukFh5F4bz3U0="
         }
       },
       "is_incremental": false,
@@ -4761,7 +4797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.StereoSGBMMode.html",
-          "hash": "Mc1gfermTom7AT4nE3cz8+ws1g1XB5ZlT2zD8O4lEdA="
+          "hash": "X44N8dKI+xDUrx1t0DGjXkUjkfB3RspxQ01rCan7Vcg="
         }
       },
       "is_incremental": false,
@@ -4773,7 +4809,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Stitcher.Mode.html",
-          "hash": "hpErXERDAXBjIoha4JxWOpeB5xbFZltzvz/LR5W6gDI="
+          "hash": "8oz+B7ZdOxo6GbJh9nfrFnOOwCvDr3bFLp8nfu9Mpko="
         }
       },
       "is_incremental": false,
@@ -4785,7 +4821,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Stitcher.Status.html",
-          "hash": "Pq8q25BCKdSavhsfVnx5A+lUJaOsPOraNbRjtlaVflU="
+          "hash": "6TWxH0i6ae1bO25vr3+jnw+fsbEspImOulHrCHqico4="
         }
       },
       "is_incremental": false,
@@ -4797,7 +4833,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Stitcher.html",
-          "hash": "fmk/o2snnX6goNgYdjcug7evlVAL51xxnopp6/HN12M="
+          "hash": "hF8tIGhpCPRqXvBfJGiRAQ0n6WBTr1FiRuyEqXbxWLY="
         }
       },
       "is_incremental": false,
@@ -4809,7 +4845,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Subdiv2D.html",
-          "hash": "au66xU24rI6I2Ng6D5YcRHjPsWgAF625YgvuZfoIM2c="
+          "hash": "lurAP6QPKPJP3yKc+iRE+MCgn37mTCuGnl2z0+uVpI4="
         }
       },
       "is_incremental": false,
@@ -4821,7 +4857,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.SuperResolution.html",
-          "hash": "EOYMfxvK+kKo0d3H8j5JpRRWO8d4KwJVbzUpDvcwhok="
+          "hash": "/4lsfigD0HvLfxnpW4sMMYdUa/+30n7q6/d/YlVnOAs="
         }
       },
       "is_incremental": false,
@@ -4833,7 +4869,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TemplateMatchModes.html",
-          "hash": "7LmWsrD8YMMK8nrjO8HH21XE1gRqeHSJWsQ7IPp5FJ4="
+          "hash": "Cx7YQl/0sdN2R21LdCxVoG5NKuqTYHu5xjSvGG+4bXo="
         }
       },
       "is_incremental": false,
@@ -4845,7 +4881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TermCriteria.html",
-          "hash": "FT4DWFx9lqwf7YYj/PvxcaRVEk2vI+09aPBjL+No5cw="
+          "hash": "H59NkaRh4qYIN4ehb1jpBTDlJ9l+xsc7Fr9EShZdGro="
         }
       },
       "is_incremental": false,
@@ -4857,7 +4893,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Text.BaseOCR.html",
-          "hash": "gkVHYuG0fR19T37Z6p12YDFKZ9F826O6Uhbb1FoPP6s="
+          "hash": "IWxPw1QBYQtVZbuK3QeuzFuyBcF9iu92PGoGDYxWFZQ="
         }
       },
       "is_incremental": false,
@@ -4869,7 +4905,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Text.ComponentLevels.html",
-          "hash": "B5vxJHtGyxnDgnLCG8RFDCo8pTon0Di9/6y150bdWX4="
+          "hash": "N8ih5daVA6b01B9XR+ULo4OKW0iw5eM1EYAoEtq3Mb0="
         }
       },
       "is_incremental": false,
@@ -4881,7 +4917,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Text.CvText.html",
-          "hash": "dTWFZTDdrxLRiEVIJl6teNkRWrEEHoNcGK79ZRbJi9o="
+          "hash": "rvAcktBKf03M5jttW1Yz1xe6/uKx3ct9YfE1ZeGf0Ss="
         }
       },
       "is_incremental": false,
@@ -4893,7 +4929,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Text.OCRTesseract.html",
-          "hash": "YQ9xBDA2kOF2LAQ2mIxpFg1BGW/ptc9aTmj/tt2pJ6I="
+          "hash": "n29M2/MLHHOCko+Hbqmi5D/8j7nx8oskyM8qRmiF8ag="
         }
       },
       "is_incremental": false,
@@ -4905,7 +4941,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Text.html",
-          "hash": "hXONRrDkHjMdL7/1V9un1+uQsaJYjZIo328WaTVsmcg="
+          "hash": "5/Fl8Pvzb5Y6BUtw9J1knOmqRmPgGfwNAD2WG9+3gYw="
         }
       },
       "is_incremental": false,
@@ -4917,7 +4953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TextDetector.html",
-          "hash": "OGxRDXMO0Y+kkuyv3vmwUKIDrApWfDwaErPk4Ppaz1A="
+          "hash": "lth8d/m/4QztUUv0RynC+4qb3HVscTZaAbqzi/RbKAU="
         }
       },
       "is_incremental": false,
@@ -4929,7 +4965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TextDetectorCNN.html",
-          "hash": "4taexwPTo2uCCCySfWNr3WyA/B/ZK2leIA1v560h8mI="
+          "hash": "Up6aDWhqD7mhSWRogYOj4ROXY8ma28kmwHkVn+Z0rqE="
         }
       },
       "is_incremental": false,
@@ -4941,7 +4977,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.ThresholdTypes.html",
-          "hash": "JifRilmiCYLjClobYEC889ArLbl8nw7kXXprZmClV4A="
+          "hash": "ck88iiTIAZDyaYDUX0l9AlYs1NrdaaEXzmpdQkGznNo="
         }
       },
       "is_incremental": false,
@@ -4953,7 +4989,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tonemap.html",
-          "hash": "Bkpv82jex4+N5quRXlG7unI72QbR5ANvn+CQKrbl/ws="
+          "hash": "dn3CAVSWJHyKqSMw8KKqs5FirOv/hSmlGgb465DFhHk="
         }
       },
       "is_incremental": false,
@@ -4965,7 +5001,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TonemapDrago.html",
-          "hash": "pH2bzAxqkafCKtCN1SPs78q9q9B7qXjQV6D8uXWiSlY="
+          "hash": "OkNJIBMV84stpYUzCyS/9F3vxUe0tmqrxE9jxzngX1w="
         }
       },
       "is_incremental": false,
@@ -4977,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TonemapMantiuk.html",
-          "hash": "B9Cr2DqRRurmMhMt6Y/tGFmJzRpbSLQSSI/0JT3z1nQ="
+          "hash": "DsXcM3Nxsq7RL2yLjmUWq0KaRvwDB1vpZBVuaMqEpe4="
         }
       },
       "is_incremental": false,
@@ -4989,7 +5025,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TonemapReinhard.html",
-          "hash": "KLEe/HhxUv3/j1SDoyhJqU/8u9SRpDvgldJjTF9q8t8="
+          "hash": "9PfZ2Y7Rl2ZbcPUUePr30mEzQWnAGJQNoTHPMAb1xkg="
         }
       },
       "is_incremental": false,
@@ -5001,7 +5037,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackbarCallback.html",
-          "hash": "NacxpYc3uf3pL4TDPhj+UPyY65xTe9zO1hw2y/vwYzE="
+          "hash": "F41zfdjcW8gFbK3NxVpp//OQSWs7u7i5nHcUJunHZQA="
         }
       },
       "is_incremental": false,
@@ -5013,7 +5049,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackbarCallbackNative.html",
-          "hash": "g3wW3uF4HcQTyiouiN7BV0/2VH8y86psSEsK1pgs7yk="
+          "hash": "OVlxRFR3BYvZi7zUo7EzFEOMGqgkd0tz3F0JLnkgwjA="
         }
       },
       "is_incremental": false,
@@ -5025,7 +5061,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracker.html",
-          "hash": "bOsk2pdblxnb2JnqXcyeIojxKGCwmC8kXRFZBBGpQy0="
+          "hash": "cS/SrgqkJmwqc8VdzkOmXE1qTVmHlXEWtpfv5EgmAnU="
         }
       },
       "is_incremental": false,
@@ -5037,7 +5073,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackerGOTURN.Params.html",
-          "hash": "+HMW9nmFwcf8NV/22rmc5m4HvvBo7iUfI+GypWYWIoE="
+          "hash": "XRwBHz4aEhovtu+Xvstj/VdQauis74aj7gO6yUA2mIM="
         }
       },
       "is_incremental": false,
@@ -5049,7 +5085,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackerGOTURN.html",
-          "hash": "Dw6nRrosVXe1+Tly0NLhAkjsLT0/q86kNDECTKmrhq0="
+          "hash": "vfqoJXvwvYdEk0uSxP/2xogBdQ9lw8Tr/tntOQOoLaE="
         }
       },
       "is_incremental": false,
@@ -5061,7 +5097,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackerMIL.Params.html",
-          "hash": "BDDWzndCfygs9oR/PLqz/jh1rg3EfJ2EFrSTQSDTYQo="
+          "hash": "+0nj7piR2r+wvmJroPsbKPYiS6JIqAW3EjYNEUHwlKc="
         }
       },
       "is_incremental": false,
@@ -5073,7 +5109,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.TrackerMIL.html",
-          "hash": "LUG8yXb/tUB6sCpJu7rjn08jVNiPpw6XJrj5t7+QKn0="
+          "hash": "zU7zLxgEsg3/qKUfQBC8lG0mVqrtTcYqGRAuNujCBlc="
         }
       },
       "is_incremental": false,
@@ -5085,7 +5121,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.TrackerCSRT.Params.html",
-          "hash": "MkAvtY1ekf8/CEpFVeSJ2cKgT5blLLusDu8ZU2NarrA="
+          "hash": "qy6cFiVKHD4+eb4UrxMm4ZOs69+l1GTr3VDRwExsAxs="
         }
       },
       "is_incremental": false,
@@ -5097,7 +5133,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.TrackerCSRT.html",
-          "hash": "Umdtzq5WSZJcg1IEH2x33cE0dE1WmYAjQDqNygn7FXY="
+          "hash": "xxlRJYoneoqTNCFSBWojHLY4yHG97OoiVWs2RL2UMc0="
         }
       },
       "is_incremental": false,
@@ -5109,7 +5145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.TrackerKCF.Params.html",
-          "hash": "v/D5oyc7TgdB4MBYABHaPF3lk86ALIQA30JyZHCVkIA="
+          "hash": "432koS3MqEOZovmSbsuH2wLrEMzWEplIrlLVOT1r4gg="
         }
       },
       "is_incremental": false,
@@ -5121,7 +5157,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.TrackerKCF.html",
-          "hash": "55m/LBF1IBYdVjK1ykS1poZ4xQlN7bu2v0SQ/ha/hBU="
+          "hash": "vjO40JJozfGAlviPjJZ+rfSaHPrk+Qqyx8rMmGPt/x0="
         }
       },
       "is_incremental": false,
@@ -5133,7 +5169,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.TrackerTypes.html",
-          "hash": "WwhhAO59MvrIJV/XuvaYZCFMzKzkHlvu3yA5eAK1xD0="
+          "hash": "PqKhj1771Lyzseo4EfRHO+6eaahsdqnXxTT+0M/Yn60="
         }
       },
       "is_incremental": false,
@@ -5145,7 +5181,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Tracking.html",
-          "hash": "1KCh1odDy08MQIJZAyL8Ga+tiv6UhhhoUtnSuU4Qzw0="
+          "hash": "cP92nbOIYBYJAgx9IfWHtwiljs4m/5o6Jd69uChb0hg="
         }
       },
       "is_incremental": false,
@@ -5157,7 +5193,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.UMat.html",
-          "hash": "8gfQVPMG3zusIHRZx4+DK6txcM7YhuTbuRSdVh0Sk0k="
+          "hash": "IrK4prsVZgjL0hI03/lHrYp5C2RzdTMxvoplRQJp66k="
         }
       },
       "is_incremental": false,
@@ -5169,7 +5205,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.UMatUsageFlags.html",
-          "hash": "+AxPO8Z16zilrUus3s6CNGZjiQ8CpqAnVgC+SxMLkZs="
+          "hash": "IRzo6VcjSjruNcgX1uO2M/KsHRS3+ea1gRk3NI/IWcc="
         }
       },
       "is_incremental": false,
@@ -5181,7 +5217,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2b.html",
-          "hash": "xdTFOS55xWmf5lBt5I5bUggz7s0S88lI5TS8Z5aYGbY="
+          "hash": "B2SKMFD+h+JpS9p8i4IQE2luzU35+b4YXx5yR/T71pc="
         }
       },
       "is_incremental": false,
@@ -5193,7 +5229,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2d.html",
-          "hash": "FPbC3EJMCkwMW43i1djua2zjG1ulmnjEB8N5+1TnRKY="
+          "hash": "Iu2CBtYLIY7HynPGA4rCWG9CwTxWZFFJgVzQeMNCVgs="
         }
       },
       "is_incremental": false,
@@ -5205,7 +5241,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2f.html",
-          "hash": "K7aYOwhIuenc5TmE6ARCpvfVbDzmXQHpaSaMChnTwro="
+          "hash": "SCCYdOoyArKL3Td1qlAweSDOcIzVOS4yV2dB02GrEU8="
         }
       },
       "is_incremental": false,
@@ -5217,7 +5253,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2i.html",
-          "hash": "33QxrHXRMK44AF4nkTB75vpORU1C01OyctaGHPvvctQ="
+          "hash": "LMsobCtHMtIpOC0kMS2rg9IFTyFaqbWDblQptrdFdcA="
         }
       },
       "is_incremental": false,
@@ -5229,7 +5265,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2s.html",
-          "hash": "g6fxrJBtnQjRAXLABuiXyFD8TRYJW341YY8NSblS2lg="
+          "hash": "McslwTzoxK7GZhvJHP/CoYV8Qsk+s1hwtfRisb3pP/g="
         }
       },
       "is_incremental": false,
@@ -5241,7 +5277,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec2w.html",
-          "hash": "8V/s8CJk6/ZV0TzUD4YrYYfSzLL0UzAdsmmtkS2IJGI="
+          "hash": "+QcaDD7F6qu4XDRbrgnFrZLr3nJivoPQWKqbj31BaRo="
         }
       },
       "is_incremental": false,
@@ -5253,7 +5289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3b.html",
-          "hash": "kiWA4GJ9scVMCrWFnpqSYSos20DEmocTy4CYx+WSqhs="
+          "hash": "gyQ8Z/KJjvn3a+S/HrVKsQeKJnD5SBsMOCxVbT2j8T4="
         }
       },
       "is_incremental": false,
@@ -5265,7 +5301,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3d.html",
-          "hash": "0DTBuoUb2i03HYv1vXy4/bIvXtOrWBCXQQfiYaylZb0="
+          "hash": "9NHDgEa6W/uJ7NQRttMbgsDwd/3Onuj/lTCV4My4ZKI="
         }
       },
       "is_incremental": false,
@@ -5277,7 +5313,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3f.html",
-          "hash": "JngSxA+9XSeG83NYgX1NS/8tHKK//2S8MwuRYKzbD9M="
+          "hash": "7PZA1QQmTC5IjFqspTHzhyqlfuSlLi6MJFvYQXLgyO0="
         }
       },
       "is_incremental": false,
@@ -5289,7 +5325,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3i.html",
-          "hash": "KrOAvQo4vcNQABgWuHUEdugwRYpBOh9NC2bOCAvewvw="
+          "hash": "ruPsEFg2uLDBT3HOJg3ZeaenB8aUZAy0ONlbHDHm5h4="
         }
       },
       "is_incremental": false,
@@ -5301,7 +5337,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3s.html",
-          "hash": "2Q8DStr2NfXQC2O0llP4JLC1L1q4oN46mcHUiHpZk60="
+          "hash": "tVHXSiujAh/4bI5VEIhL+fEeGDWe+/P5AQoYn3X8yyA="
         }
       },
       "is_incremental": false,
@@ -5313,7 +5349,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec3w.html",
-          "hash": "UUEo+l1hGNy6uV532zZhl7IBpvqCWB8VNJfCh7YmbAI="
+          "hash": "YLTD4mi1DXi6YGLd3Z+TD35FDnUBcO6WlDjk9xOqfgo="
         }
       },
       "is_incremental": false,
@@ -5325,7 +5361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4b.html",
-          "hash": "xAWQiMZt5ebJ0RUm233eQe/UBibrkiUWPq+Phk6Utrg="
+          "hash": "hzKEh3YpnAAksjWBt9tQKFI0iQBXgLc15iD/wBkfNsA="
         }
       },
       "is_incremental": false,
@@ -5337,7 +5373,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4d.html",
-          "hash": "Vc/p61azU+zIecRWnYQo+zKFjBP2faHopE3uT2yXmSs="
+          "hash": "tw8TOyNGmFxm9nu5XGQMXPuHfb6NxiC/ScWk+d/YrEI="
         }
       },
       "is_incremental": false,
@@ -5349,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4f.html",
-          "hash": "AelKOONZE8XKg9uKGgfWFIMBm1nWnCLT19kVP+hLwtI="
+          "hash": "NauIdAprwhukermAxvgltX0DTzyHduL2XGX8jV1v6mU="
         }
       },
       "is_incremental": false,
@@ -5361,7 +5397,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4i.html",
-          "hash": "dVqyVrotveBsd9Iw+MEVh8/qFK9MTSsB//ai9WW9BqM="
+          "hash": "cm2zgam3Hvk/vi4nrqkIe/IAnKJhJr6wwwhCXNNeNdM="
         }
       },
       "is_incremental": false,
@@ -5373,7 +5409,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4s.html",
-          "hash": "EvBvI5TxoNwfyyJFXOK1qLLr18kPtpDYK4pRbrbdpKE="
+          "hash": "J/VQq9BmiebAjcxkAb3bAfSqFNPtP9UgJDBhaNA+G38="
         }
       },
       "is_incremental": false,
@@ -5385,7 +5421,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec4w.html",
-          "hash": "+NBj+i7aXoPzzkZp1wrTU11DOcwbrjupcEr/FYST02w="
+          "hash": "FAOa6CA4vVXPlRWqCr2o+tk6Lp3hJ3LYbwKA72PN9a8="
         }
       },
       "is_incremental": false,
@@ -5397,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6b.html",
-          "hash": "ICn/Z+NM4bH+eBAJSwDUtYPkz2eHDu7aSNgSwk40iGs="
+          "hash": "oBW7XIh90HsI3teP8Qsdv0gZk7QApJ7iY4F2xvYZmq8="
         }
       },
       "is_incremental": false,
@@ -5409,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6d.html",
-          "hash": "AaxGVJYp1J2s3E7f4XKFMnxb2YQG9KtU6Oy/H0QPoGU="
+          "hash": "aK+n+kZ8vR6o1SfEFADUV92iwzRRu1D8ciRQ0nQA3BA="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5457,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6f.html",
-          "hash": "ieQUTrJ4RWri3f9tl5d58kl22y78aXA/gnw7UxcY1+Q="
+          "hash": "Scj2qA57x6Hi5fIrCFxcG0nQylradERRSlptySlAJy4="
         }
       },
       "is_incremental": false,
@@ -5433,7 +5469,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6i.html",
-          "hash": "8vybo9n2pohzU0ZQq4hQAdZ5GVLaslTX4jAZ52sK/Hk="
+          "hash": "Gq7hCO2x+1dXmeEMn7Jm6zfzrwi8ANio0wgJreP7Mi8="
         }
       },
       "is_incremental": false,
@@ -5445,7 +5481,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6s.html",
-          "hash": "DzsXKsIaEOJDcC6+OmPEgpt2ToGAc9FMl5fIiXuj6p8="
+          "hash": "V5RkQjahQDCtHtaSVMmDNekbYJ9omFFiN39ZtYvcyvI="
         }
       },
       "is_incremental": false,
@@ -5457,7 +5493,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Vec6w.html",
-          "hash": "VjbjFJ+9QNioabuZRbc9MVT74MpoLuV+dYG3rTvurfM="
+          "hash": "2CxlMhsbSYOA5NnJLygPCc7GbBlRbVdCBRSYrmr3Ek0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.VideoAccelerationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.VideoAccelerationType.html",
+          "hash": "ioOycAhTyWdbx1s3jdE8NtN29nyGbCk95irv6DOcMow="
         }
       },
       "is_incremental": false,
@@ -5469,7 +5517,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.VideoCapture.html",
-          "hash": "sTc5ZVjA5OfuXAhdS/yUMgRJe5WrzVMxvwQJ1Mp5Djg="
+          "hash": "8l/5oyf6WzkfimJBGPiHnHnc5PMSEueoItXHw64OFuM="
         }
       },
       "is_incremental": false,
@@ -5481,7 +5529,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.VideoCaptureAPIs.html",
-          "hash": "PrGDHQgvnCku5JinVt2ZxG+LfDqjwtKGI19mF0bTQIY="
+          "hash": "pyp/MATyjupSinbDkzrIW28lO4f2w8LtKeqpWoP0dcM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.VideoCapturePara.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.VideoCapturePara.html",
+          "hash": "XdGT9uWxgtYLBjf28DUnsuNvP/l397HA56BELjaEsKc="
         }
       },
       "is_incremental": false,
@@ -5493,7 +5553,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.VideoCaptureProperties.html",
-          "hash": "XtgCgJrq1uBx4XT4ZCqa52dCw7x3IpQaHMbSoZVeA10="
+          "hash": "wN7mGMYZUPO7DQebN/QfzjizxSVWDr4pEdpm2Hs1t8g="
         }
       },
       "is_incremental": false,
@@ -5505,7 +5565,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.VideoWriter.html",
-          "hash": "uddjiWwQwYm+lS/5xyr9YzRGaM4ZFNdLt4RFNebyrkU="
+          "hash": "s6hyPcwAvTxDYiUEHDCopl3DmMaUADO4e/m+rkod9oE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.VideoWriterPara.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.VideoWriterPara.html",
+          "hash": "KjlqwAbnx5V2gmAbbLE2B4Yy3cPvcWot6yjfh86F94A="
         }
       },
       "is_incremental": false,
@@ -5517,7 +5589,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.VideoWriterProperties.html",
-          "hash": "/apBueFllJI5EZlr6n8+DDTIarPOTOEADyL3sLAxufY="
+          "hash": "Oz4YF5Iu8wLhBET7qOJrulVwzMKG6FLsOihFu6vuSqo="
         }
       },
       "is_incremental": false,
@@ -5529,7 +5601,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.WarpPolarMode.html",
-          "hash": "/BvxycndxEi0S8Phc+RurQdOWcgJ8XaTBT6zQWKiMFg="
+          "hash": "z7NdeY9Gum4ZEahJNAetXvWf3U+EQR0coQBmX7xQMUs="
         }
       },
       "is_incremental": false,
@@ -5541,7 +5613,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Window.html",
-          "hash": "6N8XACorQQDBorK8KNqs/UTmm/wEqPwcXiH0gkcCbVU="
+          "hash": "VDohgJcMaMoOCMiafqBOQcKhj0QCe6xtMFqN9n+96r8="
         }
       },
       "is_incremental": false,
@@ -5553,7 +5625,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.WindowFlags.html",
-          "hash": "fXdjHD7pOz7FVIXBgyKtcHPP1YNjwEWKyv5OerqyrBo="
+          "hash": "JG7KTwGc1Jfwqz3V/7xnBIHlMbVAtVTdkOxp9ZBjNaA="
         }
       },
       "is_incremental": false,
@@ -5565,7 +5637,43 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.WindowPropertyFlags.html",
-          "hash": "7VYnuvR5yaTsmxoTH1kw19uQMu1QbcbRwzpdx4JvCCg="
+          "hash": "fYLccw/S998nsf6kErxL935m1NOQ/QIjw929OE3ZXcE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.BitmapSourceConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.BitmapSourceConverter.html",
+          "hash": "rVhVQUz5HDQameQCf/3Nk84jNiz3UDjhsB1oHJTxZ1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.WriteableBitmapConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.WriteableBitmapConverter.html",
+          "hash": "O1g7QCMMxLJUqaGx4kDYmljkn92UbVjtecmywwd32H4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.html",
+          "hash": "j7vCHef3AO1fWad7fXwf0FqfBeUFnIUuqR+bCE8Qn5E="
         }
       },
       "is_incremental": false,
@@ -5577,7 +5685,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.BriefDescriptorExtractor.html",
-          "hash": "DnD9SGgeujw3k9eqr7LCMfSqR2S1ygqdwh5wJBX5YEY="
+          "hash": "W791XhaDAnoba60udfKKUHD+r37CH4aU0ystcnqWdj8="
         }
       },
       "is_incremental": false,
@@ -5589,7 +5697,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.FREAK.html",
-          "hash": "FmKZe+YbJvE2f5k3+R8mrUM0lL08mYG5YZF+wwa/Ddw="
+          "hash": "Y4Vn614ol76FT1C7w8qdDF3gR9POkAszxrkhJlx7bRI="
         }
       },
       "is_incremental": false,
@@ -5601,7 +5709,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.LATCH.html",
-          "hash": "xLyARMh7znOp9RD0icoNA2ywJf9J6po4sKwapuLZuKU="
+          "hash": "aGKNyC6x1X/aPXMWPZaw9f8sPnO+Mef1rcSaw/X2cqs="
         }
       },
       "is_incremental": false,
@@ -5613,7 +5721,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.LUCID.html",
-          "hash": "bbG+pjonQB+nIlcJSXrtU5+X6r2x5NJvxKVk7MYCYi4="
+          "hash": "GTzEVABwGPy9Gv6vwYDcyzFEmZaeCjZaq77zDzE2vJY="
         }
       },
       "is_incremental": false,
@@ -5625,7 +5733,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.SURF.html",
-          "hash": "GMuQpPDoJdx9hT350YqZO0eK82wMiDfTgTozBIYQHnQ="
+          "hash": "hPXsCSzY0h/X7zDQxCw81HB0Zca92hSyZC8Re8lstO8="
         }
       },
       "is_incremental": false,
@@ -5637,7 +5745,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.StarDetector.html",
-          "hash": "qrGXR7PKH1UpJa+nHoXPlt25qYfymPiGFQljQ94R9Ao="
+          "hash": "jrWXnKkD5jgzdkayXvWXP16NzuctDGV2zsdRXkJQO+8="
         }
       },
       "is_incremental": false,
@@ -5649,7 +5757,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XFeatures2D.html",
-          "hash": "jgItxLk718DuWgcccepubT0yR3pl3KZPJn79uzGLQ8Y="
+          "hash": "cjO7Be14y0gJxvx5NBmzX4FgGdjXCtVuv8/lPCwzIoE="
         }
       },
       "is_incremental": false,
@@ -5661,7 +5769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.AdaptiveManifoldFilter.html",
-          "hash": "3pRPLcHgn+UxqkP9P48nxceQJOfq72yd3Qehd/6367c="
+          "hash": "MIO+Cz5gQkXPduTRRxv55mB9H1H92tYJHC/8fxhEv1Q="
         }
       },
       "is_incremental": false,
@@ -5673,7 +5781,19 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.AngleRangeOption.html",
-          "hash": "DzPPJeiGtuKnPA9CHNSckE6jGnwa2miMB8i+/EhV5Cw="
+          "hash": "REyd8WdCsiHw/LnTpDdgUVs21+sseHIB7tlg7wcujnM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.XImgProc.CvXImgProc.RL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.XImgProc.CvXImgProc.RL.html",
+          "hash": "FyRKdJT59tLj1nPew6GZLZPn+DPsrbU4+7DBqobUxqE="
         }
       },
       "is_incremental": false,
@@ -5685,7 +5805,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.CvXImgProc.Segmentation.html",
-          "hash": "vGdPdx2HGUwV/r14mYbGg9lcZrqy1c68BmM41jQifxY="
+          "hash": "NqlPt+JOrNmCDdXt81oUL4aONvZdaB/mg9pqxy9Lk68="
         }
       },
       "is_incremental": false,
@@ -5697,7 +5817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.CvXImgProc.html",
-          "hash": "YdusUJlZYH4gyNvrS7SqyxxqOzWYkeqHHolE7ASsoLE="
+          "hash": "pmqTgI2zIj0w6GMBFBq49MnltIohNeL/LMNbdZLOUDA="
         }
       },
       "is_incremental": false,
@@ -5709,7 +5829,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.DTFilter.html",
-          "hash": "IEcySgeU36GSAGLXdI6+fLcLeO+RkxCAjbD+lN533xg="
+          "hash": "gWuoQc3xbEXFaj9yV25qKW0RA3QyHhVoSVr0gyI3AX4="
         }
       },
       "is_incremental": false,
@@ -5721,7 +5841,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.EdgeAwareFiltersList.html",
-          "hash": "S2lKBszJidozGsuaU/8ZBev+GdTMEV02yfwVJu62XEo="
+          "hash": "nPzCLokL6F/bvaWaPasX07C0GC32pKAqimsRefgp51k="
         }
       },
       "is_incremental": false,
@@ -5733,7 +5853,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.EdgeBoxes.html",
-          "hash": "p0x5YF374WYZTJFK9ThsbVhTN1O2XJNc9byDf4iFg9o="
+          "hash": "+2J02Oj5k/BJNznE642nu9hY7OCFbR0AaOXAbwLOH9E="
         }
       },
       "is_incremental": false,
@@ -5745,7 +5865,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.FastBilateralSolverFilter.html",
-          "hash": "cpWCrDoSNqpAEQpzlTMlxwZ0gndffBgjGjC93cLIKYU="
+          "hash": "tGKn8phmqk/T7AyQueZP+k8FG4pP0pacJG6HDViB3/E="
         }
       },
       "is_incremental": false,
@@ -5757,7 +5877,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.FastGlobalSmootherFilter.html",
-          "hash": "e7VbnrFw6JPptnDnAmcdEbdeDeUKb/IjVdllylAGiqY="
+          "hash": "0wOD6KsxFATpF3E60YpeADUAcKfCXe9VJhtic5dZJsQ="
         }
       },
       "is_incremental": false,
@@ -5769,7 +5889,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.FastLineDetector.html",
-          "hash": "Z2hEeoCHUFep+F+TG9A9Kb94yh1tFi0VTZnzrOG5FAQ="
+          "hash": "aUhhle8Z4Jc1KLiwm8kKj5vpRG28URlI4zgezS3KXh0="
         }
       },
       "is_incremental": false,
@@ -5781,7 +5901,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.GuidedFilter.html",
-          "hash": "0obuzVRJ6qcl2V/LizrvV/GK+2SJkl1h3dgBct0KOFU="
+          "hash": "UeHeaKOuDfFwwmwjfntTJB3jnDEmuM3eozcbCdsnJJ8="
         }
       },
       "is_incremental": false,
@@ -5793,7 +5913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.HoughDeskewOption.html",
-          "hash": "7w7yDGlqW5D6O1Bn959Z0fCrP8lNcULaYaUlIsrlIXE="
+          "hash": "olFL6FUkxixT9mWVvtvmjwwCjkmQExNmS9xeTNid7q4="
         }
       },
       "is_incremental": false,
@@ -5805,7 +5925,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.HoughOP.html",
-          "hash": "FQDwg4tkg2WR2i/XsSsTXvPG1AmOLc8wGSthyTDOCUw="
+          "hash": "XUnElmaLsrQONUJ+NfT1qO2hwFTcKzd2lkIFDVBrXik="
         }
       },
       "is_incremental": false,
@@ -5817,7 +5937,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.LocalBinarizationMethods.html",
-          "hash": "oPbbyb5ZmH1vvlurvTW6NFduJWstjhnwyQ175b4jgw8="
+          "hash": "in2squdWBQL2W4oe48I9t+JZEDQV9GSt5IZZUo2thq4="
         }
       },
       "is_incremental": false,
@@ -5829,7 +5949,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.RFFeatureGetter.html",
-          "hash": "Sex2HVm7y7u4fJIOvaaE5mLoswZTcWhRFUQnobmj7Ww="
+          "hash": "gY9Yxuh68JP8cuiCPN0t1vx22Anu38i2nRM0UqsB2Qk="
         }
       },
       "is_incremental": false,
@@ -5841,7 +5961,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.RulesOption.html",
-          "hash": "m/cgzhvRZYkxdzXl1CPKCUGBf6rmG8oAwB0DGWe6Bzw="
+          "hash": "QIOeW8qnuFHMfLBlKaOxD7PMMlTzn1Z3kSuWU0u5NbM="
         }
       },
       "is_incremental": false,
@@ -5853,7 +5973,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.SLICType.html",
-          "hash": "hzV1dFWsbwz9WQdP09Qxn9Ie0hW42x/12AG/nDGK3Z4="
+          "hash": "nxeoaTuR55toU8pifXmopeooKYS4yce7ccG/tmUFJNs="
         }
       },
       "is_incremental": false,
@@ -5865,7 +5985,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.GraphSegmentation.html",
-          "hash": "0jhPvaaedN6rDkRX89IZYtgXXdRlAR1NV+2KRffxWpU="
+          "hash": "mqHq1FiUuQy7pr4ZZ0nSFeeQyuvyvmJ7fIJ4Irq2bdg="
         }
       },
       "is_incremental": false,
@@ -5877,7 +5997,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentation.html",
-          "hash": "8uxjNpxkIgigiVho6nWnwBBg6iMQdCsheN58NiG4cKA="
+          "hash": "UgxfdTd9uujnuN/AOEbIi7mchBlPpGJw0iGuaFTmYFk="
         }
       },
       "is_incremental": false,
@@ -5889,7 +6009,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategy.html",
-          "hash": "/3s4cJBC+aFR89xFIABloiAqCXtQTEnLVlfPkoSeJ90="
+          "hash": "pKs6OAEc4QmokqJG1MgDu/o7AYBvZgPI9iGOn9GWups="
         }
       },
       "is_incremental": false,
@@ -5901,7 +6021,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategyColor.html",
-          "hash": "EbIv5VQAidEvKnj6qjxLpkiBnjNoMW0GqrT+mN18wXI="
+          "hash": "DJf5ZE07vcreWCKsV5yroSzfunFU50F1L+bGSP3Zc1Y="
         }
       },
       "is_incremental": false,
@@ -5913,7 +6033,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategyFill.html",
-          "hash": "ij7Q5W5hlXrnCQTpSzn+jAiugMjgixLidnAQ7IKZpWg="
+          "hash": "Ve3n4rwaVmmsHV0hk/YgQzLcrM/1p+BJ7zEtKjAUYoQ="
         }
       },
       "is_incremental": false,
@@ -5925,7 +6045,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategyMultiple.html",
-          "hash": "xPeudO+bzlcC7iS9z/VnWM4cSx08jP+VD9y2UkwcgD8="
+          "hash": "u2KPnKP38SvgNx8+3RI8rG2zmwQtTFAclQxsAHWb57c="
         }
       },
       "is_incremental": false,
@@ -5937,7 +6057,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategySize.html",
-          "hash": "a0BUBSHMIFPcMY3fDdRNc1e7ZgfPGR3Pt1ddI7v+yRI="
+          "hash": "HBdAX3tSGLXPWa0WyHKEgw/spZ33aMqtKQzPEVYwBq0="
         }
       },
       "is_incremental": false,
@@ -5949,7 +6069,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.SelectiveSearchSegmentationStrategyTexture.html",
-          "hash": "W0xkWH5ynMXqajRV4hqx/w7ENUXkX8d2o6i2JlFVEO4="
+          "hash": "sudqnHG76Xq9NNihxCpJVEgVJVPvdY+pWOux72HaQbI="
         }
       },
       "is_incremental": false,
@@ -5961,7 +6081,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.Segmentation.html",
-          "hash": "yIxTUGZcmfJdCMlhHgNX038FBYrwLPXWGSPuxF7mbBE="
+          "hash": "ADVTm3TljDx/+xZOPRJzTpLi42Ain96e8Qn43gtH8us="
         }
       },
       "is_incremental": false,
@@ -5973,7 +6093,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.StructuredEdgeDetection.html",
-          "hash": "zkjlg9WzYErMRTear3GY9/eMs4T96jAoMECGWt/IIbk="
+          "hash": "QAjlYA6LbFqK/AEQICnhCzn8wSlea6rhYsqeqhDafi4="
         }
       },
       "is_incremental": false,
@@ -5985,7 +6105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.SuperpixelLSC.html",
-          "hash": "gMltlOnitEB5aJHecuHQBP2TT8YE60sXn0ROuaXgsn8="
+          "hash": "PMwfJsKaegSICTTABBLNITqQNPxLNU8vGpi149WelP8="
         }
       },
       "is_incremental": false,
@@ -5997,7 +6117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.SuperpixelSEEDS.html",
-          "hash": "f4TTiKWygp4CzbIio5+9HROZacyES2xqyEAg3zM2kJw="
+          "hash": "oz5g+XILUoTpMOduAsROvdLxm0hNoCnRQlgKjrDahwg="
         }
       },
       "is_incremental": false,
@@ -6009,7 +6129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.SuperpixelSLIC.html",
-          "hash": "MmYQLERoFPnE2H3ZJqJozWoBWlHOq3AQyc82m3QN+lY="
+          "hash": "HCWqGoxLVZHdj4F+TcjgNTkz9XqY8uU0ej823IWId7U="
         }
       },
       "is_incremental": false,
@@ -6021,7 +6141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.ThinningTypes.html",
-          "hash": "NkroFIwV0c6YTD4F1FckrEo9r4f+MDazJUt3+lhdMA8="
+          "hash": "VF7DkvV5tc54yyerviG2/JHiTMmq3oiMrFO353HuXew="
         }
       },
       "is_incremental": false,
@@ -6033,7 +6153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.WMFWeightType.html",
-          "hash": "/aTMXMrqFnOE9QQmvGBw7bzDIk52YQvDZuTx4CfDzG0="
+          "hash": "m0PvjRx751vR8+x642p46DZ/CmHeH5AbmrUVXazO4ZI="
         }
       },
       "is_incremental": false,
@@ -6045,7 +6165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XImgProc.html",
-          "hash": "sB6539Gs/7IaPuVL+zaJuSS9QNDO2PGIUxuYN8Ouz4s="
+          "hash": "6ojzrX9F4gv69OtE+RUby+kHcb4R1mi5oawMC7kzITA="
         }
       },
       "is_incremental": false,
@@ -6057,7 +6177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.Bm3dSteps.html",
-          "hash": "HQ28aTLcXnrjhrydxOLXXRp9M1BjCh7XmhobElmzt34="
+          "hash": "L6B5bfBUVYRApO2jLulzYlnu60oanwK41hyLh9ZOGdA="
         }
       },
       "is_incremental": false,
@@ -6069,7 +6189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.CvXPhoto.html",
-          "hash": "AjW5NYZ5CIF4UsH8bA9qIVPgWVtIi8syJqo5ibzBHTg="
+          "hash": "1BvGYqFTF2t0rBvihgwidGzMt/N3aP5NQ+VU/F7ngd8="
         }
       },
       "is_incremental": false,
@@ -6081,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.GrayworldWB.html",
-          "hash": "xEmVsiFXhgToTx656OZsX/5PaYVrGvXcTAwGCFAC6ks="
+          "hash": "o6DbHjG7PlxCiu0Xc9wlmwKCsQjh0q1mcF3iTR+w2BA="
         }
       },
       "is_incremental": false,
@@ -6093,7 +6213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.InpaintTypes.html",
-          "hash": "RdUdKKefyDC/5+SnIyd0gCAaui9MvKO3w0pvtw2R9MY="
+          "hash": "0EqwzHMReZwzdynlCgLIquzFncWx5RFtct7OFz/FZBc="
         }
       },
       "is_incremental": false,
@@ -6105,7 +6225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.LearningBasedWB.html",
-          "hash": "/5keA1VmPYblj7lj5EyEP1StPdf+JgdzgiHP215MiGw="
+          "hash": "WH6u8p0oQp3eK9/ZCk2OEJy049xKVSjU/Vlt/5i1TmQ="
         }
       },
       "is_incremental": false,
@@ -6117,7 +6237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.SimpleWB.html",
-          "hash": "U7EGWfsAf1C1/bl0ipko4WlX0uJu8CjT20t8UAYgyhw="
+          "hash": "Oyc84bj8NuPrKOrOjsZafBksQpZTJRAftWiMHrwoAFk="
         }
       },
       "is_incremental": false,
@@ -6129,7 +6249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.TonemapDurand.html",
-          "hash": "Fat+qBD57o0i9o1OueqvOmF8DRUtLxUTJWl+bIERAv0="
+          "hash": "piW8iax4xNv/yH8s/TfQSujSMuV77PKcxf8EXncNXpQ="
         }
       },
       "is_incremental": false,
@@ -6141,7 +6261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.TransformTypes.html",
-          "hash": "t9OYzCXORwPHrODTHCHbvTeoW4jOqtxGTnUNiNDpzGE="
+          "hash": "/pUaCxrGdgJZXd90OAjPNvbhNFuuVs/v1AKLPyKQGoA="
         }
       },
       "is_incremental": false,
@@ -6153,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.WhiteBalancer.html",
-          "hash": "Rs71oErDHdZ4jkYGvTXnlFEX0cCH0KwIuphwPP1tW1M="
+          "hash": "61dI7ezc4MZZuCVfJW2ZPuR4NWQpOpl0Hy/oxjvqSIc="
         }
       },
       "is_incremental": false,
@@ -6165,7 +6285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.XPhoto.html",
-          "hash": "SU12X5LzfaYPr9IpoiluNEOezFuSMWTz7TN1B5O8QSI="
+          "hash": "BvDBSsC06dP+V7HBPJCstsVTeA48N+Hf7ISANBNdoxE="
         }
       },
       "is_incremental": false,
@@ -6177,7 +6297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.html",
-          "hash": "We1C9ZjwKLv4bfBMjrli8tXYR9JbRfQWgYyVL3ZJPzM="
+          "hash": "HnHr2YZWUAV0+BvK5JLRIqUbuFh11UMG8/9D/wv8BZM="
         }
       },
       "is_incremental": false,
@@ -6189,7 +6309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "Y5BXhTyfD/VeAC0tS11KaonuPK6dLUMCG62/rxOhMUI="
+          "hash": "DHACJdnar8oe+KBdK6GQYswTBOUjy9qeOXEWEuG7big="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "o2meB7lRjG0kwBUrhnogkClNdwPw46JOvZ/7HdGS1zc="
+          "hash": "5t2i6QpXuqgY3zBlFt+/Y4qga5/VVYgtZAC3mBEa5t0="
         }
       },
       "is_incremental": false,
@@ -6213,7 +6333,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "ik9eUB1kYpYraIV9FKtKWWJwAcQbds4DTrzI9xr0CmE="
+          "hash": "oOCQ34J4LuNwWZEjAjxuNhc8MJ35c1Jm0EVqNAIQSW4="
         }
       },
       "is_incremental": false,
@@ -6237,7 +6357,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "2+F9Nd0BMZu1EHoM/csuikG0gY9Cc41XY7MrZ9Ddp+c="
+          "hash": "f9mvmA4BvVEZWFk59+scJEC8/hneUMTbxDxJJqR/lfY="
         }
       },
       "is_incremental": false,
@@ -6276,7 +6396,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 515,
+          "total_file_count": 525,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

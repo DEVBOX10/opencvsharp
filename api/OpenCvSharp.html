@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Namespace OpenCvSharp
    ">
-    <meta name="generator" content="docfx 2.57.2.0">
+    <meta name="generator" content="docfx 2.58.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -132,7 +132,10 @@ For each descriptor in the first set, this matcher finds the closest descriptor 
       <section><p>The base class for camera response calibration algorithms.</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.CalibrateDebevec.html">CalibrateDebevec</a></h4>
-      <section><p>The base class for camera response calibration algorithms.</p>
+      <section><p>CalibrateDebevec object</p>
+</section>
+      <h4><a class="xref" href="OpenCvSharp.CalibrateRobertson.html">CalibrateRobertson</a></h4>
+      <section><p>CalibrateRobertson object</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.CascadeClassifier.html">CascadeClassifier</a></h4>
       <section><p>Cascade classifier class for object detection.</p>
@@ -224,6 +227,9 @@ Detects position, translation and rotation</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.HOGDescriptor.html">HOGDescriptor</a></h4>
       <section><p>HOG (Histogram-of-Oriented-Gradients) Descriptor and Object Detector</p>
+</section>
+      <h4><a class="xref" href="OpenCvSharp.ImageEncodingParam.html">ImageEncodingParam</a></h4>
+      <section><p>The format-specific save parameters for cv::imwrite and cv::imencode</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.InputArray.html">InputArray</a></h4>
       <section><p>Proxy data type for passing Mat's and vector&lt;&gt;'s as input parameters</p>
@@ -435,8 +441,18 @@ Original code can be found here [http://vision.ucsd.edu/~bbabenko/project_miltra
       <h4><a class="xref" href="OpenCvSharp.VideoCapture.html">VideoCapture</a></h4>
       <section><p>Video capturing class</p>
 </section>
+      <h4><a class="xref" href="OpenCvSharp.VideoCapturePara.html">VideoCapturePara</a></h4>
+      <section><p>Parameters of VideoCature for hardware acceleration
+Please check the link below for current HW acceleration types support matrix
+<a href="https://github.com/opencv/opencv/wiki/Video-IO-hardware-acceleration">https://github.com/opencv/opencv/wiki/Video-IO-hardware-acceleration</a></p>
+</section>
       <h4><a class="xref" href="OpenCvSharp.VideoWriter.html">VideoWriter</a></h4>
       <section><p>AVI Video File Writer</p>
+</section>
+      <h4><a class="xref" href="OpenCvSharp.VideoWriterPara.html">VideoWriterPara</a></h4>
+      <section><p>Parameters of VideoWriter for hardware acceleration
+Please check the link below for current HW acceleration types support matrix
+<a href="https://github.com/opencv/opencv/wiki/Video-IO-hardware-acceleration">https://github.com/opencv/opencv/wiki/Video-IO-hardware-acceleration</a></p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.Window.html">Window</a></h4>
       <section><p>Wrapper of HighGUI window</p>
@@ -903,6 +919,11 @@ decoder for special applications.</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.UMatUsageFlags.html">UMatUsageFlags</a></h4>
       <section><p>cv::UMatUsageFlags</p>
+</section>
+      <h4><a class="xref" href="OpenCvSharp.VideoAccelerationType.html">VideoAccelerationType</a></h4>
+      <section><p>Video Acceleration type
+Used as value in #CAP_PROP_HW_ACCELERATION and #VIDEOWRITER_PROP_HW_ACCELERATION
+note In case of FFmpeg backend, it translated to enum AVHWDeviceType (<a href="https://github.com/FFmpeg/FFmpeg/blob/master/libavutil/hwcontext.h">https://github.com/FFmpeg/FFmpeg/blob/master/libavutil/hwcontext.h</a>)</p>
 </section>
       <h4><a class="xref" href="OpenCvSharp.VideoCaptureAPIs.html">VideoCaptureAPIs</a></h4>
       <section><p>Camera device types</p>

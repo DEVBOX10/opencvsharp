@@ -5,12 +5,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class SVM.Kernel
+    <title>Enum VideoAccelerationType
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class SVM.Kernel
+    <meta name="title" content="Enum VideoAccelerationType
    ">
-    <meta name="generator" content="docfx 2.57.2.0">
+    <meta name="generator" content="docfx 2.58.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -68,65 +68,62 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="OpenCvSharp.ML.SVM.Kernel">
+            <article class="content wrap" id="_content" data-uid="OpenCvSharp.VideoAccelerationType">
   
   
-  <h1 id="OpenCvSharp_ML_SVM_Kernel" data-uid="OpenCvSharp.ML.SVM.Kernel" class="text-break">Class SVM.Kernel
+  <h1 id="OpenCvSharp_VideoAccelerationType" data-uid="OpenCvSharp.VideoAccelerationType" class="text-break">Enum VideoAccelerationType
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Video Acceleration type
+Used as value in #CAP_PROP_HW_ACCELERATION and #VIDEOWRITER_PROP_HW_ACCELERATION
+note In case of FFmpeg backend, it translated to enum AVHWDeviceType (<a href="https://github.com/FFmpeg/FFmpeg/blob/master/libavutil/hwcontext.h">https://github.com/FFmpeg/FFmpeg/blob/master/libavutil/hwcontext.h</a>)</p>
+</div>
   <div class="markdown level0 conceptual"></div>
-  <div class="inheritance">
-    <h5>Inheritance</h5>
-    <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">SVM.Kernel</span></div>
-  </div>
-  <div class="inheritedMembers">
-    <h5>Inherited Members</h5>
-    <div>
-      <span class="xref">System.Object.ToString()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.Equals(System.Object)</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.GetHashCode()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.GetType()</span>
-    </div>
-    <div>
-      <span class="xref">System.Object.MemberwiseClone()</span>
-    </div>
-  </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="OpenCvSharp.ML.html">OpenCvSharp.ML</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="OpenCvSharp.html">OpenCvSharp</a></h6>
   <h6><strong>Assembly</strong>: OpenCvSharp.dll</h6>
-  <h5 id="OpenCvSharp_ML_SVM_Kernel_syntax">Syntax</h5>
+  <h5 id="OpenCvSharp_VideoAccelerationType_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class Kernel</code></pre>
+    <pre><code class="lang-csharp hljs">public enum VideoAccelerationType</code></pre>
   </div>
-  <h3 id="constructors">Constructors
+  <h3 id="fields">Fields
   </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/shimat/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_ML_SVM_Kernel__ctor.md&amp;value=---%0Auid%3A%20OpenCvSharp.ML.SVM.Kernel.%23ctor%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/shimat/opencvsharp/blob/master/src/OpenCvSharp/Modules/ml/SVM.cs/#L431">View Source</a>
-  </span>
-  <a id="OpenCvSharp_ML_SVM_Kernel__ctor_" data-uid="OpenCvSharp.ML.SVM.Kernel.#ctor*"></a>
-  <h4 id="OpenCvSharp_ML_SVM_Kernel__ctor" data-uid="OpenCvSharp.ML.SVM.Kernel.#ctor">Kernel()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Kernel()</code></pre>
-  </div>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    <thead>
+    <tbody>
+      <tr>
+        <td id="OpenCvSharp_VideoAccelerationType_Any">Any</td>
+        <td><p>Prefer to use H/W acceleration. If no one supported, then fallback to software processing.
+note H/W acceleration may require special configuration of used environment.
+note Results in encoding scenario may differ between software and hardware accelerated encoders.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="OpenCvSharp_VideoAccelerationType_D3D11">D3D11</td>
+        <td><p>DirectX 11</p>
+</td>
+      </tr>
+      <tr>
+        <td id="OpenCvSharp_VideoAccelerationType_MFX">MFX</td>
+        <td><p>libmfx (Intel MediaSDK/oneVPL)</p>
+</td>
+      </tr>
+      <tr>
+        <td id="OpenCvSharp_VideoAccelerationType_None">None</td>
+        <td><p>Do not require any specific H/W acceleration, prefer software processing.
+Reading of this value means that special H/W accelerated handling is not added or not detected by OpenCV.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="OpenCvSharp_VideoAccelerationType_VAAPI">VAAPI</td>
+        <td><p>VAAPI</p>
+</td>
+      </tr>
+    </tbody>
+  </thead></thead></table>
 </article>
           </div>
           
@@ -135,10 +132,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/shimat/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_ML_SVM_Kernel.md&amp;value=---%0Auid%3A%20OpenCvSharp.ML.SVM.Kernel%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ScriptBox99/opencvsharp/new/master/apiSpec/new?filename=OpenCvSharp_VideoAccelerationType.md&amp;value=---%0Auid%3A%20OpenCvSharp.VideoAccelerationType%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/shimat/opencvsharp/blob/master/src/OpenCvSharp/Modules/ml/SVM.cs/#L426" class="contribution-link">View Source</a>
+                    <a href="https://github.com/ScriptBox99/opencvsharp/blob/master/src/OpenCvSharp/Modules/videoio/Enum/VideoAccelerationType.cs/#L9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
